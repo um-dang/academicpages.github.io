@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /team/
 title: "The DANG! Admin Team"
 excerpt: "Team"
 author_profile: true
