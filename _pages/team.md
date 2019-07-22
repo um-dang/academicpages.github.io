@@ -8,7 +8,7 @@ redirect_from:
   - /team.html
 ---
 
-{% assign people_list = site.data.team.yml %}
+{% assign people_list = site.data.authors.yml %}
 
 {% for person in people_list %}
 
@@ -28,3 +28,5 @@ redirect_from:
 {% if loopindex == 0 %}
 
 {% endif %} {% endfor %}
+
+{% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
