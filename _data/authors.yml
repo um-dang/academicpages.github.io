@@ -1,15 +1,30 @@
 # Authors
 
-- name        : "Will Close"
-  uri         :
-  twitter     : "WilliamLClose"
+Will Close:
+  name        : "Will Close"
   bio         : "Microbiology Post-doc"
-  github      : "wclose"
-- name        : "Ari Kozik"
-- name        : "Zena Lapp"
-- name        : "Matt Ostrowski"
-- name        : "Kelly Sovacool"
-  uri         : "https://sovacool.dev"
-  twitter     : "kelly_sovacool"
+  links:
+      - label: "Twitter"
+        url: "https://twitter.com/WilliamLClose"
+      - label: "GitHub"
+        url: "https://github.com/wclose"
+
+Ari Kozik:
+  name        : "Ari Kozik"
+
+Zena Lapp:
+  name        : "Zena Lapp"
+
+Matt Ostrowski:
+  name        : "Matt Ostrowski"
+
+Kelly Sovacool:
+  name        : "Kelly Sovacool"
   bio         : "Bioinformatics PhD student"
-  github      : "kelly-sovacool"
+  links:
+      - label: "Twitter"
+        url: "https://twitter.com/kelly_sovacool"
+      - label: "GitHub"
+        url: "https://github.com/kelly-sovacool"
+      - label: "Website":
+        url: "https://sovacool.dev"
