@@ -12,9 +12,9 @@ redirect_from:
 	- [July 2019: Help & Networking Social](#july-2019-help-networking-social)
 - [Past Events](#past-events)
 	- [May 2019: An Introduction to Cytoscape](#may-2019-an-introduction-to-cytoscape)
-	- [Feb 2019: Transitioning from Flux to the new high-performance Great Lakes Cluster](#feb-2019-transitioning-from-flux-to-the-new-high-performance-great-lakes-cluster)
-	- [Apr 2019: Literate Programming: Creating reproducible reports using RMarkdown](#apr-2019-literate-programming-creating-reproducible-reports-using-rmarkdown)
-	- [Mar 2019: Making UNIX Yours: Improving data analysis workflow through bash customization](#mar-2019-making-unix-yours-improving-data-analysis-workflow-through-bash-customization)
+	- [Feb 2019: Transitioning from Flux](#feb-2019-transitioning-from-flux)
+	- [Apr 2019: Literate Programming](#apr-2019-literate-programming)
+	- [Mar 2019: Making UNIX Yours](#mar-2019-making-unix-yours)
 
 <!-- /TOC -->
 
@@ -22,29 +22,47 @@ redirect_from:
 
 ## July 2019: Help & Networking Social
 
-Stop by with data analysis questions, meet the _DANG!_ team and
+Stop by with data analysis questions, meet the _DANG!_ team &
 community, and grab a snack!
 
-* Monday, July 29, 2019
-* 4 p.m.-6 p.m.
-* 5623 Medical Science Building II
+**Monday, July 29, 2019 | 4-6 p.m. | 5623 Medical Science Building II**
 
-![2019-07-29](../images/flyers/DANG_presents_HlpNS.png)
+![flyer](../images/flyers/DANG_presents_HlpNS.png)
 
 # Past Events
 
 ## May 2019: An Introduction to Cytoscape
 
-![2019-05-20](../images/flyers/DANG-cyto_final.png)
+An Introduction to Cytoscape: A tool for network visualization
 
-## Feb 2019: Transitioning from Flux to the new high-performance Great Lakes Cluster
+**May 20, 2019 | 4-5pm | Room 5623 Med Sci II**
 
-![2019-02-18](../images/flyers/DANG-hpc-finalized.png)
+Presented by Justin Joque, PhD
 
-## Apr 2019: Literate Programming: Creating reproducible reports using RMarkdown
+Visualization Librarian
 
-![2019-04-22](../images/flyers/RMarkdown-finalized.png)
+University of Michigan
 
-## Mar 2019: Making UNIX Yours: Improving data analysis workflow through bash customization
+## Feb 2019: Transitioning from Flux
 
-![2019-03-25](../images/flyers/UnixYours-finalized.png)
+Transitioning from Flux to the new high-performance Great Lakes Cluster
+
+**Feb 18, 2019 | 4-5pm | Room 5623 Med Sci II**
+
+## Apr 2019: Literate Programming
+
+Literate Programming: Creating reproducible reports using RMarkdown
+
+**Apr 22, 2019 | 4-5pm | Room 5623 Med Sci II**
+
+Presented by Zena Lapp
+
+PhD Candidate
+
+Department of Computational Medicine & Bioinformatics
+
+## Mar 2019: Making UNIX Yours
+
+Making UNIX Yours: Improving data analysis workflow through bash customization
+
+**Mar 25, 2019 | 4-5pm | Room 5623 Med Sci II**
