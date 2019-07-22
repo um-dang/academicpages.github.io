@@ -22,4 +22,4 @@ Check out our past and upcoming events [here](events).
 
 Join our [MCommunity Group](https://mcommunity.umich.edu/#group:umich%20dang) and follow us on [Twitter](https://twitter.com/um_dang) to get updates about upcoming meetings.
 
-Have a question for just the DANG admins? Have a topic idea for an upcoming meeting? Contact us at [dang-admins@umich.edu](mailto:dang-admins@umich.edu)
+Have a question for just the DANG admins? Have a topic idea for an upcoming meeting? Contact us at [dang-admins@umich.edu](mailto:dang-admins@umich.edu).
