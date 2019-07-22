@@ -18,8 +18,8 @@ Our hope is that these meetings & discussions will foster new ideas within our r
 
 Check out our past and upcoming events [here](events).
 
-### Contact
+## Contact
 
-Join our [MCommunity Group](https://mcommunity.umich.edu/#group:umich%20dang) to receive email updates about upcoming meetings.
+Join our [MCommunity Group](https://mcommunity.umich.edu/#group:umich%20dang) and follow us on [Twitter](twitter.com/um_dang) to get updates about upcoming meetings.
 
 Have a question for just the DANG admins? Contact us at [dang-admins@umich.edu](mailto:dang-admins@umich.edu)
