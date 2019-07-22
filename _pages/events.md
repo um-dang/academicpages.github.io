@@ -22,10 +22,11 @@ redirect_from:
 
 ## July 2019: Help & Networking Social
 
+**Monday, July 29, 2019 \| 4-6 p.m. \| 5623 Med Sci II**
+
 Stop by with data analysis questions, meet the _DANG!_ team &
 community, and grab a snack!
 
-**Monday, July 29, 2019 \| 4-6 p.m. \| 5623 Medical Science Building II**
 
 ![flyer](../images/flyers/DANG_presents_HlpNS.png)
 
@@ -33,36 +34,29 @@ community, and grab a snack!
 
 ## May 2019: An Introduction to Cytoscape
 
-An Introduction to Cytoscape: A tool for network visualization
-
 **May 20, 2019 \| 4-5pm \| Room 5623 Med Sci II**
 
-Presented by Justin Joque, PhD
+_An Introduction to Cytoscape: A tool for network visualization_
 
-Visualization Librarian
-
-University of Michigan
+Presented by Justin Joque, PhD - Visualization Librarian
 
 ## Feb 2019: Transitioning from Flux
 
-Transitioning from Flux to the new high-performance Great Lakes Cluster
-
 **Feb 18, 2019 \| 4-5pm \| Room 5623 Med Sci II**
+
+_Transitioning from Flux to the new high-performance Great Lakes Cluster_
+
 
 ## Apr 2019: Literate Programming
 
-Literate Programming: Creating reproducible reports using RMarkdown
-
 **Apr 22, 2019 \| 4-5pm \| Room 5623 Med Sci II**
 
-Presented by Zena Lapp
+_Literate Programming: Creating reproducible reports using RMarkdown_
 
-PhD Candidate
-
-Department of Computational Medicine & Bioinformatics
+Presented by Zena Lapp, PhD Candidate - Department of Computational Medicine & Bioinformatics
 
 ## Mar 2019: Making UNIX Yours
 
-Making UNIX Yours: Improving data analysis workflow through bash customization
-
 **Mar 25, 2019 \| 4-5pm \| Room 5623 Med Sci II**
+
+_Making UNIX Yours: Improving data analysis workflow through bash customization_
