@@ -1,7 +1,8 @@
 # main links links
 main:
+  - title: "About"
+    url: /about/
   - title: "Events"
     url: /events/
-
   - title: "Blog"
     url: /posts/
