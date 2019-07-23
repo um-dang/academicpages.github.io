@@ -1,37 +1,23 @@
 # Authors
 - Will Close:
   name: "Will Close"
-  bio: "Microbiology Post-doc"
-  links:
-      - label: "Twitter"
-        icon: "fab fa-fw fa-twitter-square"
-        url: "https://twitter.com/WilliamLClose"
-      - label: "GitHub"
-        icon: "fab fa-fw fa-github-square"
-        url: "https://github.com/wclose"
+  bio: "Postdoctoral Researcher"
+  twitter: "WilliamLClose"
+  github: "wclose"
 
 - Ari Kozik:
   name: "Ari Kozik"
   bio: "Postdoctoral Researcher (Respiratory Microbiome)"
   avatar: "/images/team/ari.jpg"
-  links:
-      - label: "Twitter"
-        icon: "fab fa-fw fa-twitter-square"
-        url: "https://twitter.com/dr_kozik"
+  twitter: "dr_kozik"
 
 - Zena Lapp:
   name: "Zena Lapp"
   bio: "Bioinformatics PhD candidate"
   avatar: "/images/team/zena.jpg"
-  links:
-      - label: "GitHub"
-        icon: "fab fa-fw fa-github-square"
-        url: "https://github.com/zmml"
-      - label: "LinkedIn"
-        icon: "fab fa-fw fa-linkedin-square"
-        url: "https://www.linkedin.com/in/zenalapp/"
-      - label: "GoogleScholar"
-        url: "https://scholar.google.com/citations?user=5Ygy97MAAAAJ&hl=en"
+  github: "zmml"
+  linkedin: "zenalapp"
+  googlescholar: "https://scholar.google.com/citations?user=5Ygy97MAAAAJ&hl=en"
 
 - Matt Ostrowski:
   name: "Matt Ostrowski"
@@ -40,13 +26,6 @@
   name: "Kelly Sovacool"
   bio: "Bioinformatics PhD student"
   avatar: "/images/team/kelly.jpg"
-  links:
-      - label: "Twitter"
-        icon: "fab fa-fw fa-twitter-square"
-        url: "https://twitter.com/kelly_sovacool"
-      - label: "GitHub"
-        icon: "fab fa-fw fa-github-square"
-        url: "https://github.com/kelly-sovacool"
-      - label: "Website"
-        icon: "fas fa-fw fa-link"
-        url: "https://sovacool.dev"
+  twitter: "kelly_sovacool"
+  github: "https://github.com/kelly-sovacool"
+  website: "https://sovacool.dev"
