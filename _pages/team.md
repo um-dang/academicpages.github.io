@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+---
+
 {% for author in site.data.authors %}
 {% assign loopindex = forloop.index | modulo: 4 %}
 
