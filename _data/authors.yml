@@ -27,6 +27,11 @@
       - label: "GitHub"
         icon: "fab fa-fw fa-github-square"
         url: "https://github.com/zmml"
+      - label: "LinkedIn"
+        icon: "fab fa-fw fa-linkedin-square"
+        url: "https://www.linkedin.com/in/zenalapp/"
+      - label: "GoogleScholar"
+        url: "https://scholar.google.com/citations?user=5Ygy97MAAAAJ&hl=en"
 
 - Matt Ostrowski:
   name: "Matt Ostrowski"
