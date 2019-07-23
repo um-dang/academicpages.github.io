@@ -1,6 +1,5 @@
 # Authors
-
-Will Close:
+- Will Close:
   name: "Will Close"
   bio: "Microbiology Post-doc"
   links:
@@ -9,7 +8,7 @@ Will Close:
       - label: "GitHub"
         url: "https://github.com/wclose"
 
-Ari Kozik:
+- Ari Kozik:
   name: "Ari Kozik"
   bio: "Postdoctoral Researcher (Respiratory Microbiome)"
   avatar: "/images/team/ari.jpg"
@@ -17,7 +16,7 @@ Ari Kozik:
       - label: "Twitter"
         url: "https://twitter.com/dr_kozik"
 
-Zena Lapp:
+- Zena Lapp:
   name: "Zena Lapp"
   bio: "Bioinformatics PhD candidate"
   avatar: "/images/team/zena.jpg"
@@ -25,10 +24,10 @@ Zena Lapp:
       - label: "GitHub"
         url: "https://github.com/zmml"
 
-Matt Ostrowski:
+- Matt Ostrowski:
   name: "Matt Ostrowski"
 
-Kelly Sovacool:
+- Kelly Sovacool:
   name: "Kelly Sovacool"
   bio: "Bioinformatics PhD student"
   avatar: "/images/team/kelly.jpg"

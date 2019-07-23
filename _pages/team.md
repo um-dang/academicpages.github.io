@@ -8,9 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-{% assign people_list = site.data.authors %}
-{% for person in people_list %}
-{% assign author = site.data.authors[person] %}
+{% for author in site.data.authors %}
 {% assign loopindex = forloop.index | modulo: 4 %}
 {% if loopindex == 1 %}
 <div class="row">
