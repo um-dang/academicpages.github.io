@@ -4,7 +4,7 @@ main:
     url: /about/
   - title: "Events"
     url: /events/
-#  - title: "Team"
-#    url: /team/
+  - title: "Team"
+    url: /team/
 #  - title: "Blog"
 #    url: /posts/

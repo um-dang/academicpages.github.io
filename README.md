@@ -8,6 +8,7 @@ Things to maintain:
 - Navigation bar: [`_data/navigation.yml`](navigation.yml).
 - About page: [`_pages/about.md`](_pages/about.md).
 - Past & upcoming events: [`_pages/events.md`](_pages/events.md)
+- Team page: [`_pages/team.md`](_pages/team.md) & team members: [`_data/authors.yml`](_data/authors.yml)
 - Blog posts: markdown files in [`_posts/`](_posts/). Draft posts in [`_drafts/`](_drafts/)
 - Logo: [`images/logo1_AK.png`](images/logo1_AK.png).
 - Flyers: [`images/flyers`](images/flyers).
