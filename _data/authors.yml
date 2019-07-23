@@ -2,6 +2,7 @@
 - Will Close:
   name: "Will Close"
   bio: "Postdoctoral Researcher"
+  avatar: "https://avatars0.githubusercontent.com/u/25166098?s=400&v=4"
   twitter: "WilliamLClose"
   github: "wclose"
 
@@ -21,11 +22,12 @@
 
 - Matt Ostrowski:
   name: "Matt Ostrowski"
+  avatar: "/images/team/matt.jpg"
 
 - Kelly Sovacool:
   name: "Kelly Sovacool"
   bio: "Bioinformatics PhD student"
   avatar: "/images/team/kelly.jpg"
   twitter: "kelly_sovacool"
-  github: "https://github.com/kelly-sovacool"
-  website: "https://sovacool.dev"
+  github: "kelly-sovacool"
+  uri: "https://sovacool.dev"
