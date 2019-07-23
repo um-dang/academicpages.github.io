@@ -10,12 +10,7 @@ redirect_from:
 {% include base_path %}
 {% for author in site.data.authors %}
 {% assign loopindex = forloop.index | modulo: 4 %}
-{% if loopindex == 1 %}
-<div class="row">
-{% endif %}
 
-
-<div class="medium-3 columns">
 
 <div itemscope itemtype="http://schema.org/Person">
 
@@ -135,9 +130,4 @@ redirect_from:
   </div>
 </div>
 
-
-</div>
-{% if loopindex == 0 %}
-</div>
-{% endif %}
 {% endfor %}
