@@ -4,8 +4,10 @@
   bio: "Microbiology Post-doc"
   links:
       - label: "Twitter"
+        icon: "fab fa-fw fa-twitter-square"
         url: "https://twitter.com/WilliamLClose"
       - label: "GitHub"
+        icon: "fab fa-fw fa-github-square"
         url: "https://github.com/wclose"
 
 - Ari Kozik:
@@ -14,6 +16,7 @@
   avatar: "/images/team/ari.jpg"
   links:
       - label: "Twitter"
+        icon: "fab fa-fw fa-twitter-square"
         url: "https://twitter.com/dr_kozik"
 
 - Zena Lapp:
@@ -22,6 +25,7 @@
   avatar: "/images/team/zena.jpg"
   links:
       - label: "GitHub"
+        icon: "fab fa-fw fa-github-square"
         url: "https://github.com/zmml"
 
 - Matt Ostrowski:
@@ -33,8 +37,11 @@
   avatar: "/images/team/kelly.jpg"
   links:
       - label: "Twitter"
+        icon: "fab fa-fw fa-twitter-square"
         url: "https://twitter.com/kelly_sovacool"
       - label: "GitHub"
+        icon: "fab fa-fw fa-github-square"
         url: "https://github.com/kelly-sovacool"
       - label: "Website"
+        icon: "fas fa-fw fa-link"
         url: "https://sovacool.dev"
