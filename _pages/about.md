@@ -16,10 +16,10 @@ Don't know how to visualize your results? Come to _DANG!_, and hopefully as a gr
 Did you recently discover an amazing R package or script? Come to _DANG!_, and share with us how you accomplished that.
 Our hope is that these meetings & discussions will foster new ideas within our respective fields.
 
+## Get Connected!
+
 Check out our past and upcoming events [here](events).
 
-## Contact
-
-Join our [MCommunity Group](https://mcommunity.umich.edu/#group:umich%20dang) and follow us on [Twitter](https://twitter.com/um_dang) to get updates about upcoming meetings.
+Join our [MCommunity Group](https://mcommunity.umich.edu/#group:umich%20dang) and follow us on [Twitter](https://twitter.com/um_dang) to get updates about upcoming meetings. Join our [Slack workspace](umich-dang.slack.com) to stay connected with the _DANG!_ community.
 
 Have a question for just the [_DANG!_ admins](team/)? Have a topic idea for an upcoming meeting? Contact us at [dang-admins@umich.edu](mailto:dang-admins@umich.edu).
