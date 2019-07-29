@@ -20,6 +20,6 @@ Our hope is that these meetings & discussions will foster new ideas within our r
 
 Check out our past and upcoming events [here](events).
 
-Join our [MCommunity Group](https://mcommunity.umich.edu/#group:umich%20dang) and follow us on [Twitter](https://twitter.com/um_dang) to get updates about upcoming meetings. Join our [Slack workspace](umich-dang.slack.com) to stay connected with the _DANG!_ community.
+Join our [MCommunity Group](https://mcommunity.umich.edu/#group:umich%20dang) and follow us on [Twitter](https://twitter.com/um_dang) to get updates about upcoming meetings. Join our [Slack workspace](https://umich-dang.slack.com) to stay connected with the _DANG!_ community. (New to Slack? [Here's how to get started!](https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-members))
 
 Have a question for just the [_DANG!_ admins](team/)? Have a topic idea for an upcoming meeting? Contact us at [dang-admins@umich.edu](mailto:dang-admins@umich.edu).
