@@ -6,34 +6,34 @@ author_profile: true
 redirect_from:
   - /events.html
 ---
-<!-- TOC depthFrom:1 depthTo:1 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Upcoming events](#upcoming-events)
-- [Past Events](#past-events)
-
-<!-- /TOC -->
 
 # Upcoming events
 
-## July 2019: Help & Networking Social
+## August 2019: TBD
 
-Monday, July 29, 2019 \| 4-6 p.m. \| 5623 Med Sci II
-
-Stop by with data analysis questions, meet the _DANG!_ team &
-community, and grab a snack!
-
-
-[![flyer](../images/flyers/DANG_presents_HlpNS.png)](../images/flyers/DANG_presents_HlpNS.pdf)
+Stay tuned for the details on our next meeting!
 
 # Past Events
-<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
 
+- [July 2019: Help & Networking Social](#july-2019-help-networking-social)
 - [May 2019: An Introduction to Cytoscape](#may-2019-an-introduction-to-cytoscape)
 - [Feb 2019: Transitioning from Flux](#feb-2019-transitioning-from-flux)
 - [Apr 2019: Literate Programming](#apr-2019-literate-programming)
 - [Mar 2019: Making UNIX Yours](#mar-2019-making-unix-yours)
 
 <!-- /TOC -->
+
+## July 2019: Help & Networking Social
+
+Monday, July 29, 2019 \| 4-6 p.m. \| 5623 Med Sci II
+
+[Stop by with data analysis questions, meet the _DANG!_ team &
+community, and grab a snack!](../images/flyers/DANG_presents_HlpNS.pd))
+
+
+
 
 ## May 2019: An Introduction to Cytoscape
 
