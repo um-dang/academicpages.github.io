@@ -18,6 +18,7 @@ _FUNctions_
 
 Presented by Zena Lapp
 
+
 ## Sep 2019: Conda on the Cluster
 
 Monday, Sep 23, 2019 \| 4-5pm \| 5623 Med Sci II
@@ -26,17 +27,22 @@ _Conda on the Cluster_
 
 Presented by Will Close
 
+
 ## Oct 2019: Machine Learning
 
 Monday, Oct 28, 2019 \| 4-5pm \| 5623 Med Sci II
 
+_Machine Learning_
+
 Presented by Begüm Topçuoğlu
+
 
 ## Nov 2019
 
 Monday, Nov 18, 2019 \| 4-5pm \| 5623 Med Sci II
 
 Presented by Stephanie Thiede
+
 
 ## Dec 2019
 
@@ -45,6 +51,8 @@ Monday, Dec 09, 2019 \| 4-5pm \| 5623 Med Sci II
 _Plotting using the R package ggplot2_
 
 Presented by Matt Schnizlein
+
+
 
 # Past Events
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
@@ -65,16 +73,14 @@ Monday, July 29, 2019 \| 4-6pm \| 5623 Med Sci II
 community, and grab a snack!](../images/flyers/DANG_presents_HlpNS.pd))
 
 
-
-
 ## May 2019: An Introduction to Cytoscape
-
 
 May 20, 2019 \| 4-5pm \| Room 5623 Med Sci II
 
 _An Introduction to Cytoscape: A tool for network visualization_
 
 Presented by Justin Joque, PhD - Visualization Librarian
+
 
 ## Feb 2019: Transitioning from Flux
 
@@ -89,7 +95,8 @@ Apr 22, 2019 \| 4-5pm \| Room 5623 Med Sci II
 
 _Literate Programming: Creating reproducible reports using RMarkdown_
 
-Presented by Zena Lapp, PhD Candidate - Department of Computational Medicine & Bioinformatics
+Presented by Zena Lapp
+
 
 ## Mar 2019: Making UNIX Yours
 
