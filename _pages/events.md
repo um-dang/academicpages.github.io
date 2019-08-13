@@ -10,9 +10,41 @@ redirect_from:
 
 # Upcoming events
 
-## August 2019: TBD
+## Aug 2019: FUNctions
 
-Stay tuned for the details on our next meeting!
+Monday, August 26, 2019 \| 4-5pm \| 5623 Med Sci II
+
+_FUNctions_
+
+Presented by Zena Lapp
+
+## Sep 2019: Conda on the Cluster
+
+Monday, Sep 23, 2019 \| 4-5pm \| 5623 Med Sci II
+
+_Conda on the Cluster_
+
+Presented by Will Close
+
+## Oct 2019: Machine Learning
+
+Monday, Oct 28, 2019 \| 4-5pm \| 5623 Med Sci II
+
+Presented by Begüm Topçuoğlu
+
+## Nov 2019
+
+Monday, Nov 18, 2019 \| 4-5pm \| 5623 Med Sci II
+
+Presented by Stephanie Thiede
+
+## Dec 2019
+
+Monday, Dec 09, 2019 \| 4-5pm \| 5623 Med Sci II
+
+_Plotting using the R package ggplot2_
+
+Presented by Matt Schnizlein
 
 # Past Events
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
@@ -27,7 +59,7 @@ Stay tuned for the details on our next meeting!
 
 ## July 2019: Help & Networking Social
 
-Monday, July 29, 2019 \| 4-6 p.m. \| 5623 Med Sci II
+Monday, July 29, 2019 \| 4-6pm \| 5623 Med Sci II
 
 [Stop by with data analysis questions, meet the _DANG!_ team &
 community, and grab a snack!](../images/flyers/DANG_presents_HlpNS.pd))
