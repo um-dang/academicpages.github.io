@@ -10,18 +10,18 @@ redirect_from:
 
 # Upcoming events
 
-## Aug 2019: FUNctions
+## Aug 2019: Making FUNctions in R
 
 Monday, August 26, 2019 \| 4-5pm \| 5623 Med Sci II
 
-_FUNctions_
+_Making FUNctions in R_
 
 Presented by Zena Lapp
 
 
 ## Sep 2019: Conda on the Cluster
 
-Monday, Sep 23, 2019 \| 4-5pm \| 5623 Med Sci II
+Monday, Sep 23, 2019 \| 4-5pm \| 2901 Taubman Health Sciences Library
 
 _Conda on the Cluster_
 
@@ -30,7 +30,7 @@ Presented by Will Close
 
 ## Oct 2019: Machine Learning
 
-Monday, Oct 28, 2019 \| 4-5pm \| 5623 Med Sci II
+Monday, Oct 28, 2019 \| 4-5pm \| 2903 Taubman Health Sciences Library
 
 _Machine Learning_
 
@@ -46,7 +46,7 @@ Presented by Stephanie Thiede
 
 ## Dec 2019
 
-Monday, Dec 09, 2019 \| 4-5pm \| 5623 Med Sci II
+Monday, Dec 09, 2019 \| 4-5pm \| 2901 Taubman Health Sciences Library
 
 _Plotting using the R package ggplot2_
 
