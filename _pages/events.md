@@ -18,6 +18,7 @@ _Making FUNctions in R_
 
 Presented by Zena Lapp
 
+![flyer](images/DANG-Aug-Functions_finalized.png)
 
 ## Sep 2019: Conda on the Cluster
 
