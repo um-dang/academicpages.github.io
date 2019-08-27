@@ -7,8 +7,7 @@ redirect_from:
   - /events.html
 ---
 
-
-# Upcoming events
+See our upcoming events below, and our past events [here](#past-events)!
 
 ## Sep 2019: Conda on the Cluster
 
