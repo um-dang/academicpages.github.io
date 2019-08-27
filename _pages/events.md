@@ -10,16 +10,6 @@ redirect_from:
 
 # Upcoming events
 
-## Aug 2019: Making FUNctions in R
-
-Monday, August 26, 2019 \| 4-5pm \| 5623 Med Sci II
-
-_Making FUNctions in R_
-
-Presented by Zena Lapp
-
-![flyer](/images/flyers/DANG-Aug-Functions_finalized.png)
-
 ## Sep 2019: Conda on the Cluster
 
 Monday, Sep 23, 2019 \| 4-5pm \| 2901 Taubman Health Sciences Library
@@ -57,7 +47,7 @@ Presented by Matt Schnizlein
 
 # Past Events
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
-
+- [Aug 2019: Making FUNctions in R](#aug-2019-making-functions-in-r)
 - [July 2019: Help & Networking Social](#july-2019-help-networking-social)
 - [May 2019: An Introduction to Cytoscape](#may-2019-an-introduction-to-cytoscape)
 - [Feb 2019: Transitioning from Flux](#feb-2019-transitioning-from-flux)
@@ -65,6 +55,14 @@ Presented by Matt Schnizlein
 - [Mar 2019: Making UNIX Yours](#mar-2019-making-unix-yours)
 
 <!-- /TOC -->
+
+## Aug 2019: Making FUNctions in R
+
+Monday, August 26, 2019 \| 4-5pm \| 5623 Med Sci II
+
+_Making FUNctions in R_
+
+Presented by Zena Lapp
 
 ## July 2019: Help & Networking Social
 
