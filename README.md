@@ -18,5 +18,5 @@ Things to maintain:
 * [Will Close](https://github.com/wclose)
 * [Ari Kozik](https://github.com/aj-kozik)
 * [Zena Lapp](https://github.com/zmml)
-* Matt Ostrowski
+* [Matt Ostrowski](https://github.com/aweder9)
 * [Kelly Sovacool](https://github.com/kelly-sovacool)
