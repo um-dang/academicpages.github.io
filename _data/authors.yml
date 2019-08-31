@@ -1,4 +1,4 @@
-# Authors
+# Authors, alphabetized by last name
 - Will Close:
   name: "Will Close"
   bio: "Postdoctoral Researcher"
@@ -11,6 +11,7 @@
   bio: "Postdoctoral Researcher (Respiratory Microbiome)"
   avatar: "/images/team/ari.jpg"
   twitter: "dr_kozik"
+  github: "aj-kozik"
 
 - Zena Lapp:
   name: "Zena Lapp"
@@ -25,6 +26,7 @@
   bio: "Postdoctoral Researcher"
   avatar: "/images/team/matt.jpg"
   email: "mpostrow@umich.edu"
+  github: "aweder9"
 
 - Kelly Sovacool:
   name: "Kelly Sovacool"
