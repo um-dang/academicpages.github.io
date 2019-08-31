@@ -16,6 +16,8 @@ Don't know how to visualize your results? Come to _DANG!_, and hopefully as a gr
 Did you recently discover an amazing R package or script? Come to _DANG!_, and share with us how you accomplished that.
 Our hope is that these meetings & discussions will foster new ideas within our respective fields.
 
+_DANG!_ is proud to be supported by a [Rackham Interdisciplinary Workshop](https://rackham.umich.edu/faculty-and-staff/faculty-and-program-funding/rackham-interdisciplinary-workshops/) grant.
+
 ## Get Connected!
 
 Check out our past and upcoming events [here](events).
