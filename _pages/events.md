@@ -68,7 +68,7 @@ Presented by Zena Lapp
 Monday, July 29, 2019 \| 4-6pm \| 5623 Med Sci II
 
 [Stop by with data analysis questions, meet the _DANG!_ team &
-community, and grab a snack!](../images/flyers/DANG_presents_HlpNS.pdf))
+community, and grab a snack!](../images/flyers/DANG_presents_HlpNS.pdf)
 
 
 ## May 2019: An Introduction to Cytoscape
