@@ -63,6 +63,8 @@ _Making FUNctions in R_
 
 Presented by Zena Lapp
 
+[Access the code on GitHub.](https://github.com/um-dang/writing-functions-r)
+
 ## July 2019: Help & Networking Social
 
 Monday, July 29, 2019 \| 4-6pm \| 5623 Med Sci II
