@@ -22,6 +22,11 @@ _DANG!_ is proud to be supported by a [Rackham Interdisciplinary Workshop](https
 
 Check out our past and upcoming events [here](events).
 
-Join our [MCommunity Group](https://mcommunity.umich.edu/#group:umich%20dang) and follow us on [Twitter](https://twitter.com/um_dang) to get updates about upcoming meetings. Join our [Slack workspace](https://join.slack.com/t/umich-dang/shared_invite/enQtNjEzMTU5MDU3MDU2LTdhNGZjMzJmNDc0NTFkZDVkMjBmMjFhM2ZjN2QzMGY2ZDcwMTU4ZTcwOTdjZTJmMGI3MTExMGIxOTljMjllMzA) to stay connected with the _DANG!_ community. (New to Slack? [Here's how to get started!](https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-members))
+Join our [MCommunity Group](https://mcommunity.umich.edu/#group:umich%20dang) and follow us on [Twitter](https://twitter.com/um_dang) to get updates about upcoming meetings.
+Join our [Slack workspace](https://join.slack.com/t/umich-dang/shared_invite/enQtNjEzMTU5MDU3MDU2LTdhNGZjMzJmNDc0NTFkZDVkMjBmMjFhM2ZjN2QzMGY2ZDcwMTU4ZTcwOTdjZTJmMGI3MTExMGIxOTljMjllMzA) to stay connected with the _DANG!_ community.
+(New to Slack? [Here's how to get started!](https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-members))
 
-We're always looking for community members to lead meetings. If you have a topic idea or would like to present, sign up by contacting us at [dang-admins@umich.edu](mailto:dang-admins@umich.edu). Anyone can lead a meeting! Check out our [past events](https://um-dang.github.io/events/#past-events) to see topics we've covered recently.
+We're always looking for community members to get involved with planning & leading our meetings.
+If you have a topic idea or would like to present, sign up by contacting us at [dang-admins@umich.edu](mailto:dang-admins@umich.edu).
+Anyone can lead a meeting!
+Check out our [past events](https://um-dang.github.io/events/#past-events) to see topics we've covered recently.
