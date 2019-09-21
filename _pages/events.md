@@ -17,6 +17,7 @@ _Conda on the Cluster_
 
 Presented by Will Close
 
+[Access the code on GitHub.](https://github.com/um-dang/conda_intro)
 
 ## Oct 2019: Machine Learning
 
