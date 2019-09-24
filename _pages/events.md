@@ -9,16 +9,6 @@ redirect_from:
 
 See our upcoming events below, and our past events [here](#past-events)!
 
-## Sep 2019: Conda on the Cluster
-
-Monday, Sep 23, 2019 \| 4-5pm \| 2901 Taubman Health Sciences Library
-
-_Conda on the Cluster_
-
-Presented by Will Close
-
-[Access the code on GitHub.](https://github.com/um-dang/conda_intro)
-
 ## Oct 2019: Machine Learning
 
 Monday, Oct 28, 2019 \| 4-5pm \| 2903 Taubman Health Sciences Library
@@ -47,6 +37,7 @@ Presented by Matt Schnizlein
 
 # Past Events
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
+- [Sep 2019: Conda on the Cluster](#Sep-2019-Conda-on-the-Cluster)
 - [Aug 2019: Making FUNctions in R](#aug-2019-making-functions-in-r)
 - [July 2019: Help & Networking Social](#july-2019-help-networking-social)
 - [May 2019: An Introduction to Cytoscape](#may-2019-an-introduction-to-cytoscape)
@@ -55,6 +46,17 @@ Presented by Matt Schnizlein
 - [Mar 2019: Making UNIX Yours](#mar-2019-making-unix-yours)
 
 <!-- /TOC -->
+
+## Sep 2019: Conda on the Cluster
+
+Monday, Sep 23, 2019 \| 4-5pm \| 2901 Taubman Health Sciences Library
+
+_Conda on the Cluster_
+
+Presented by Will Close
+
+[Access the code on GitHub.](https://github.com/um-dang/conda_on_the_cluster)
+
 
 ## Aug 2019: Making FUNctions in R
 
