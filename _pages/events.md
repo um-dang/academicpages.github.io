@@ -7,7 +7,7 @@ redirect_from:
   - /events.html
 ---
 
-See our upcoming events below, and our past events [here](#past-events)!
+See our upcoming events below, and our past events [here](#past-events). You can also view our events feed at the [UMich Events Calendar](https://events.umich.edu/group/4456).
 
 ## Oct 2019: Machine Learning
 
