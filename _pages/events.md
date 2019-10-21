@@ -9,7 +9,7 @@ redirect_from:
 
 See our upcoming events below, and our past events [here](#past-events). You can also view our events feed at the [UMich Events Calendar](https://events.umich.edu/group/4456).
 
-## Oct 2019: Machine Learning
+## Oct 2019: Machine Learning Pipelines in R
 
 Monday, Oct 28, 2019 \| 4-5pm \| 2903 Taubman Health Sciences Library
 
