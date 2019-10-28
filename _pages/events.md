@@ -13,10 +13,11 @@ See our upcoming events below, and our past events [here](#past-events). You can
 
 Monday, Oct 28, 2019 \| 4-5pm \| 2903 Taubman Health Sciences Library
 
-_Machine Learning_
+_Machine Learning Pipelines in R_
 
 Presented by Begüm Topçuoğlu
 
+[Access the code & other materials on GitHub.](https://github.com/um-dang/machine-learning-pipelines-r)
 
 ## Nov 2019
 
