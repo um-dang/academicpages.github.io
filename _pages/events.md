@@ -9,22 +9,11 @@ redirect_from:
 
 See our upcoming events below, and our past events [here](#past-events). You can also view our events feed at the [UMich Events Calendar](https://events.umich.edu/group/4456).
 
-## Oct 2019: Machine Learning Pipelines in R
-
-Monday, Oct 28, 2019 \| 4-5pm \| 2903 Taubman Health Sciences Library
-
-_Machine Learning Pipelines in R_
-
-Presented by Begüm Topçuoğlu
-
-[Access the code & other materials on GitHub.](https://github.com/um-dang/machine-learning-pipelines-r)
-
 ## Nov 2019
 
 Monday, Nov 18, 2019 \| 4-5pm \| 5623 Med Sci II
 
 Presented by Stephanie Thiede
-
 
 ## Dec 2019
 
@@ -35,9 +24,9 @@ _Plotting using the R package ggplot2_
 Presented by Matt Schnizlein
 
 
-
 # Past Events
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
+- [Oct 2019: Machine Learning Pipelines in R](#Oct-2019-Machine-Learning-Pipelines-in-R)
 - [Sep 2019: Conda on the Cluster](#Sep-2019-Conda-on-the-Cluster)
 - [Aug 2019: Making FUNctions in R](#aug-2019-making-functions-in-r)
 - [July 2019: Help & Networking Social](#july-2019-help-networking-social)
@@ -47,6 +36,16 @@ Presented by Matt Schnizlein
 - [Mar 2019: Making UNIX Yours](#mar-2019-making-unix-yours)
 
 <!-- /TOC -->
+
+## Oct 2019: Machine Learning Pipelines in R
+
+Monday, Oct 28, 2019 \| 4-5pm \| 2903 Taubman Health Sciences Library
+
+_Machine Learning Pipelines in R_
+
+Presented by Begüm Topçuoğlu
+
+[Access the code & other materials on GitHub.](https://github.com/um-dang/machine-learning-pipelines-r)
 
 ## Sep 2019: Conda on the Cluster
 
