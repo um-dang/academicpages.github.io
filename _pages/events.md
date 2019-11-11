@@ -27,6 +27,21 @@ _Plotting using the R package ggplot2_
 
 Presented by Matt Schnizlein
 
+## Jan 2020
+
+Monday, Jan 27, 2020 \| 4-5pm \| 5623 Med Sci II
+
+_Intro to Docker_
+
+Presented by Jonathan Golob
+
+## Feb 2020
+
+Monday, Feb 24, 2020 \| 4-5pm \| 5623 Med Sci II
+
+_Intro to Snakemake_
+
+Presented by Chris Gates
 
 # Past Events
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
