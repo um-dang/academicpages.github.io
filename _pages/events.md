@@ -13,7 +13,11 @@ See our upcoming events below, and our past events [here](#past-events). You can
 
 Monday, Nov 18, 2019 \| 4-5pm \| 5623 Med Sci II
 
+_Looping in R: for loops & the apply family_
+
 Presented by Stephanie Thiede
+
+[Access the materials on GitHub.](https://github.com/um-dang/loops-apply-r)
 
 ## Dec 2019
 
