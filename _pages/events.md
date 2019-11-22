@@ -9,25 +9,11 @@ redirect_from:
 
 See our upcoming events below, and our past events [here](#past-events). You can also view our events feed at the [UMich Events Calendar](https://events.umich.edu/group/4456).
 
-## Nov 2019
-
-Monday, Nov 18, 2019 \| 4-5pm \| 5623 Med Sci II
-
-_Looping in R: for loops & the apply family_
-
-Presented by Stephanie Thiede
-
-[Access the materials on GitHub.](https://github.com/um-dang/loops-apply-r)
-
-## Dec 2019
+## Dec 2019: Help Desk
 
 Monday, Dec 09, 2019 \| 4-5pm \| 2901 Taubman Health Sciences Library
 
-_Plotting using the R package ggplot2_
-
-Presented by Matt Schnizlein
-
-## Jan 2020
+## Jan 2020: Docker
 
 Monday, Jan 27, 2020 \| 4-5pm \| 5623 Med Sci II
 
@@ -35,7 +21,7 @@ _Intro to Docker_
 
 Presented by Jonathan Golob
 
-## Feb 2020
+## Feb 2020: Snakemake
 
 Monday, Feb 24, 2020 \| 4-5pm \| 5623 Med Sci II
 
@@ -45,6 +31,7 @@ Presented by Chris Gates
 
 # Past Events
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
+- [Nov 2019: Looping in R](#Nov-2019-Looping-in-R)
 - [Oct 2019: Machine Learning Pipelines in R](#Oct-2019-Machine-Learning-Pipelines-in-R)
 - [Sep 2019: Conda on the Cluster](#Sep-2019-Conda-on-the-Cluster)
 - [Aug 2019: Making FUNctions in R](#aug-2019-making-functions-in-r)
@@ -55,6 +42,16 @@ Presented by Chris Gates
 - [Mar 2019: Making UNIX Yours](#mar-2019-making-unix-yours)
 
 <!-- /TOC -->
+
+## Nov 2019: Looping in R
+
+Monday, Nov 18, 2019 \| 4-5pm \| 5623 Med Sci II
+
+_Looping in R: for loops & the apply family_
+
+Presented by Stephanie Thiede
+
+[Access the materials on GitHub.](https://github.com/um-dang/loops-apply-r)
 
 ## Oct 2019: Machine Learning Pipelines in R
 
