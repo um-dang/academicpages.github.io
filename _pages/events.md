@@ -13,6 +13,8 @@ See our upcoming events below, and our past events [here](#past-events). You can
 
 Monday, Dec 09, 2019 \| 4-5pm \| 2901 Taubman Health Sciences Library
 
+Can't get that graph to look right? Frustrated with data cleaning? Want to flex your skills and help others? Join us for our Holiday Helpdesk on Monday December 9th! Bring your code/data OR come to network and help others at this informal session!
+
 ## Jan 2020: Docker
 
 Monday, Jan 27, 2020 \| 4-5pm \| 5623 Med Sci II
