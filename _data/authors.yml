@@ -1,4 +1,21 @@
-# Authors, alphabetized by last name
+# DANG! admin team
+
+- Zena Lapp:
+  name: "Zena Lapp"
+  bio: "Grad Student Coordinator, Bioinformatics PhD candidate"
+  avatar: "/images/team/zena.jpg"
+  github: "zmml"
+  linkedin: "zenalapp"
+  googlescholar: "https://scholar.google.com/citations?user=5Ygy97MAAAAJ&hl=en"
+
+- Kelly Sovacool:
+  name: "Kelly Sovacool"
+  bio: "Grad Student Coordinator\nBioinformatics PhD student"
+  avatar: "/images/team/kelly.jpg"
+  twitter: "kelly_sovacool"
+  github: "kelly-sovacool"
+  uri: "https://sovacool.dev"
+
 - Will Close:
   name: "Will Close"
   bio: "Postdoctoral Researcher"
@@ -13,14 +30,6 @@
   twitter: "dr_kozik"
   github: "aj-kozik"
 
-- Zena Lapp:
-  name: "Zena Lapp"
-  bio: "Bioinformatics PhD candidate"
-  avatar: "/images/team/zena.jpg"
-  github: "zmml"
-  linkedin: "zenalapp"
-  googlescholar: "https://scholar.google.com/citations?user=5Ygy97MAAAAJ&hl=en"
-
 - Matt Ostrowski:
   name: "Matt Ostrowski"
   bio: "Postdoctoral Researcher"
@@ -28,10 +37,3 @@
   email: "mpostrow@umich.edu"
   github: "aweder9"
 
-- Kelly Sovacool:
-  name: "Kelly Sovacool"
-  bio: "Bioinformatics PhD student"
-  avatar: "/images/team/kelly.jpg"
-  twitter: "kelly_sovacool"
-  github: "kelly-sovacool"
-  uri: "https://sovacool.dev"
