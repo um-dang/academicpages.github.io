@@ -63,7 +63,7 @@ _Machine Learning Pipelines in R_
 
 Presented by Begüm Topçuoğlu
 
-[Access the code & other materials on GitHub.](https://github.com/um-dang/machine-learning-pipelines-r)
+[Access the materials on GitHub.](https://github.com/um-dang/machine-learning-pipelines-r)
 
 ## Sep 2019: Conda on the Cluster
 
@@ -73,7 +73,7 @@ _Conda on the Cluster_
 
 Presented by Will Close
 
-[Access the code on GitHub.](https://github.com/um-dang/conda_on_the_cluster)
+[Access the materials on GitHub.](https://github.com/um-dang/conda_on_the_cluster)
 
 
 ## Aug 2019: Making FUNctions in R
@@ -84,7 +84,7 @@ _Making FUNctions in R_
 
 Presented by Zena Lapp
 
-[Access the code on GitHub.](https://github.com/um-dang/writing-functions-r)
+[Access the materials on GitHub.](https://github.com/um-dang/writing-functions-r)
 
 ## July 2019: Help & Networking Social
 
