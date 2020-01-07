@@ -9,12 +9,6 @@ redirect_from:
 
 See our upcoming events below, and our past events [here](#past-events). You can also view our events feed at the [UMich Events Calendar](https://events.umich.edu/group/4456).
 
-## Dec 2019: Help Desk
-
-Monday, Dec 09, 2019 \| 4-5pm \| 2901 Taubman Health Sciences Library
-
-Can't get that graph to look right? Frustrated with data cleaning? Want to flex your skills and help others? Join us for our Holiday Helpdesk on Monday December 9th! Bring your code/data OR come to network and help others at this informal session!
-
 ## Jan 2020: Docker
 
 Monday, Jan 27, 2020 \| 4-5pm \| 5623 Med Sci II
@@ -33,6 +27,7 @@ Presented by Chris Gates
 
 # Past Events
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
+- [Dec 2019: Help Desk](#dec-2019-help-desk)
 - [Nov 2019: Looping in R](#Nov-2019-Looping-in-R)
 - [Oct 2019: Machine Learning Pipelines in R](#Oct-2019-Machine-Learning-Pipelines-in-R)
 - [Sep 2019: Conda on the Cluster](#Sep-2019-Conda-on-the-Cluster)
@@ -44,6 +39,12 @@ Presented by Chris Gates
 - [Mar 2019: Making UNIX Yours](#mar-2019-making-unix-yours)
 
 <!-- /TOC -->
+
+## Dec 2019: Help Desk
+
+Monday, Dec 09, 2019 \| 4-5pm \| 2901 Taubman Health Sciences Library
+
+Can't get that graph to look right? Frustrated with data cleaning? Want to flex your skills and help others? Join us for our Holiday Helpdesk on Monday December 9th! Bring your code/data OR come to network and help others at this informal session!
 
 ## Nov 2019: Looping in R
 
