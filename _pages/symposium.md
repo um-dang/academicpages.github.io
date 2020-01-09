@@ -1,17 +1,13 @@
 ---
 permalink: /symposium/
-title: ""
+title: "_DANG!_ Symposium"
 excerpt: "Symposium"
 author_profile: true
 redirect_from:
   - /symposium.html
 ---
 
-_Announcing the first annual_
-
-## _DANG!_ Symposium**
-
-A one-day event for data science practitioners of all experience levels in the University of Michigan community.
+Want to learn more about the practical aspects of data science? Join us for the first annual **_DANG!_ Symposium**, a one-day event for data science practitioners of all experience levels in the University of Michigan community.
 
 Featuring keynote speaker Katie Malone, PhD, co-host of the [Linear Digressions podcast](http://lineardigressions.com/).
 
