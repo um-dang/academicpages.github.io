@@ -1,6 +1,6 @@
 ---
 permalink: /symposium/
-title: "DANG! Symposium"
+title: ""
 excerpt: "Symposium"
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 _Announcing the first annual_
 
-**Data Analysis Networking Group Symposium**
+## _DANG!_ Symposium**
 
 A one-day event for data science practitioners of all experience levels in the University of Michigan community.
 
