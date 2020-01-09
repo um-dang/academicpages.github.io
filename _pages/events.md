@@ -25,6 +25,12 @@ _Intro to Snakemake_
 
 Presented by Chris Gates
 
+## May 2020: Symposium
+
+Friday, May 29th, 2020 \| 9am-4pm \| Rackham Building
+
+See more information [here](https://um-dang.github.io/symposium/).
+
 # Past Events
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
 - [Dec 2019: Help Desk](#dec-2019-help-desk)
