@@ -16,6 +16,7 @@ Things to maintain:
 ## Admins
 
 * [Will Close](https://github.com/wclose)
+* [Luis Correa](https://github.com/CorreaL17)
 * [Ari Kozik](https://github.com/aj-kozik)
 * [Zena Lapp](https://github.com/zmml)
 * [Matt Ostrowski](https://github.com/aweder9)
