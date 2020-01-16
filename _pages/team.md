@@ -1,6 +1,6 @@
 ---
 permalink: /team/
-title: "The DANG! Admin Team"
+title: "The DANG! Team"
 excerpt: "Team"
 author_profile: true
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 ---
 
-{% for author in site.data.authors %}
+{% for author in site.data.team %}
 {% assign loopindex = forloop.index | modulo: 4 %}
 
 
