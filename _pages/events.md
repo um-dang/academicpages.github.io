@@ -62,6 +62,8 @@ Monday, Nov 18, 2019 \| 4-5pm \| 5623 Med Sci II
 
 _Looping in R: for loops & the apply family_
 
+Come join us to learn about a fundamental coding concept: looping! Core concepts include the basics of for loops, alternatives to for loops in R (vectorization, the apply family), and suggestions on when to use for loops vs. apply statements in R.
+
 Presented by Stephanie Thiede
 
 [Access the materials on GitHub.](https://github.com/um-dang/loops-apply-r)
@@ -72,6 +74,8 @@ Monday, Oct 28, 2019 \| 4-5pm \| 2903 Taubman Health Sciences Library
 
 _Machine Learning Pipelines in R_
 
+Join us as we learn how to use the caret R package to develop machine learning (ML) pipelines. Core concepts will include: an overview of ML, best practices for developing ML models, and using caret to develop your own ML models.
+
 Presented by Begüm Topçuoğlu
 
 [Access the materials on GitHub.](https://github.com/um-dang/machine-learning-pipelines-r)
@@ -81,6 +85,8 @@ Presented by Begüm Topçuoğlu
 Monday, Sep 23, 2019 \| 4-5pm \| 2901 Taubman Health Sciences Library
 
 _Conda on the Cluster_
+
+Come join us as we learn how using Conda can help you better manage programs and create reproducible analysis pipelines while working in any environment, including the new Great Lakes cluster. Core concepts will include: what is Conda, what are best practices for using Conda, and how can you adapt Conda for use in your own research.
 
 Presented by Will Close
 
