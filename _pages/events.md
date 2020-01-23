@@ -23,7 +23,11 @@ Monday, Feb 24, 2020 \| 4-5pm \| 5623 Med Sci II
 
 _Intro to Snakemake_
 
-Presented by Chris Gates
+Join us as we learn about snakemake – a workflow management system used to create reproducible and scalable data analyses. We will cover an overview of the snakemake utility and the basics of the framework, create a simple example, and touch on a few key features that make snakemake an excellent choice for building workflows.
+
+Presented by Chris Gates & Travis Saari
+
+[Access the materials on GitHub.](https://github.com/um-dang/intro-to-snakemake)
 
 ## May 2020: Symposium
 
