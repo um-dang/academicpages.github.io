@@ -9,21 +9,14 @@ redirect_from:
 
 ## forks
 
-<center>
-
 ![dang-fork-original](/images/puns/dang-fork-original.jpeg)
 
-</center>
-
 You mean **this** _DANG!_ fork?
-
-<center>
 
 ![fork-button](/images/puns/fork-button.png)
 
 ![fork-button-crop](/images/puns/fork-button-crop.png)
 
-</center>
 
 
 
