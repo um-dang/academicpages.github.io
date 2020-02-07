@@ -7,11 +7,11 @@ redirect_from:
   - /puns.html
 ---
 
-## _DANG!_ forks
+## forks
 
 ![dang-fork-original](/images/puns/dang-fork-original.jpeg)
 
-You mean this _DANG!_ fork?
+You mean **this** _DANG!_ fork?
 
 ![fork-button](/images/puns/fork-button.png)
 
