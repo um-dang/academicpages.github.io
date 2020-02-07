@@ -1,6 +1,6 @@
 ---
 permalink: /puns/
-title: "in the wild"
+title: "_DANG!_ in the wild"
 excerpt: "in the wild"
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 
 ![dang-fork-original](/images/puns/dang-fork-original.jpeg)
 
-You mean this fork?
+You mean this _DANG!_ fork?
 
 ![fork-button](/images/puns/fork-button.png)
 
