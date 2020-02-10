@@ -9,17 +9,9 @@ redirect_from:
 
 See our upcoming events below, and our past events [here](#past-events). You can also view our events feed at the [UMich Events Calendar](https://events.umich.edu/group/4456).
 
-## Jan 2020: Docker
-
-Monday, Jan 27, 2020 \| 4-5pm \| 5623 Med Sci II
-
-_Intro to Docker_
-
-Presented by Jonathan Golob
-
 ## Feb 2020: Snakemake
 
-Monday, Feb 24, 2020 \| 4-5pm \| 5623 Med Sci II
+Monday, Feb 24, 2020 \| 4-5pm \| THSL 2901
 
 _Intro to Snakemake_
 
@@ -29,6 +21,22 @@ Presented by Chris Gates & Travis Saari
 
 [Access the materials on GitHub.](https://github.com/um-dang/intro-to-snakemake)
 
+## Mar 2020: Metagenomics Pipelines
+
+Monday, Mar 23, 2020 \| 4-5pm \| THSL 2901
+
+_Metagenomics Pipelines_
+
+Presented by Will Close
+
+## Apr 2020: Plotting with ggplot2
+
+Monday, Apr 27, 2020 \| 4-5pm \| THSL 2901
+
+_Plotting with ggplot2_
+
+Presented by Matt Schnizlein
+
 ## May 2020: Symposium
 
 Friday, May 29th, 2020 \| 9am-4pm \| Rackham Building
@@ -37,6 +45,7 @@ See more information [here](https://um-dang.github.io/symposium/).
 
 # Past Events
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
+- [Jan 2020: Docker](#jan-2020-docker)
 - [Dec 2019: Help Desk](#dec-2019-help-desk)
 - [Nov 2019: Looping in R](#Nov-2019-Looping-in-R)
 - [Oct 2019: Machine Learning Pipelines in R](#Oct-2019-Machine-Learning-Pipelines-in-R)
@@ -49,6 +58,14 @@ See more information [here](https://um-dang.github.io/symposium/).
 - [Mar 2019: Making UNIX Yours](#mar-2019-making-unix-yours)
 
 <!-- /TOC -->
+
+## Jan 2020: Docker
+
+Monday, Jan 27, 2020 \| 4-5pm \| 5623 Med Sci II
+
+_Intro to Docker_
+
+Presented by Jonathan Golob
 
 ## Dec 2019: Help Desk
 
