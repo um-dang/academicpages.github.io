@@ -43,6 +43,10 @@ Friday, May 29th, 2020 \| 9am-4pm \| Rackham Building
 
 See more information [here](https://um-dang.github.io/symposium/).
 
+## June 2020: Help Session
+
+Can't get that graph to look right? Frustrated with data cleaning? Want to squash bugs in your code and help others do the same? Join us for our help session in June [date/time TBD]! Bring your code/data OR come to network and help others at this informal session!
+
 # Past Events
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
 - [Jan 2020: Docker](#jan-2020-docker)
