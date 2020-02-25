@@ -9,18 +9,6 @@ redirect_from:
 
 See our upcoming events below, and our past events [here](#past-events). You can also view our events feed at the [UMich Events Calendar](https://events.umich.edu/group/4456).
 
-## Feb 2020: Snakemake
-
-Monday, Feb 24, 2020 \| 4-5pm \| THSL 2901
-
-_Intro to Snakemake_
-
-Join us as we learn about snakemake – a workflow management system used to create reproducible and scalable data analyses. We will cover an overview of the snakemake utility and the basics of the framework, create a simple example, and touch on a few key features that make snakemake an excellent choice for building workflows.
-
-Presented by Chris Gates & Travis Saari
-
-[Access the materials on GitHub.](https://github.com/um-dang/intro-to-snakemake)
-
 ## Mar 2020: Metagenomics Pipelines
 
 Monday, Mar 23, 2020 \| 4-5pm \| THSL 2901
@@ -49,6 +37,7 @@ Can't get that graph to look right? Frustrated with data cleaning? Want to squas
 
 # Past Events
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
+- [Feb 2020: Snakemake](#feb-2020-snakemake)
 - [Jan 2020: Docker](#jan-2020-docker)
 - [Dec 2019: Help Desk](#dec-2019-help-desk)
 - [Nov 2019: Looping in R](#Nov-2019-Looping-in-R)
@@ -62,6 +51,18 @@ Can't get that graph to look right? Frustrated with data cleaning? Want to squas
 - [Mar 2019: Making UNIX Yours](#mar-2019-making-unix-yours)
 
 <!-- /TOC -->
+
+## Feb 2020: Snakemake
+
+Monday, Feb 24, 2020 \| 4-5pm \| THSL 2901
+
+_Intro to Snakemake_
+
+Join us as we learn about snakemake – a workflow management system used to create reproducible and scalable data analyses. We will cover an overview of the snakemake utility and the basics of the framework, create a simple example, and touch on a few key features that make snakemake an excellent choice for building workflows.
+
+Presented by Chris Gates & Travis Saari
+
+[Access the materials on GitHub.](https://github.com/um-dang/intro-to-snakemake)
 
 ## Jan 2020: Docker
 
