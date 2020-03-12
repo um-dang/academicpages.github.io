@@ -11,7 +11,7 @@ See our upcoming events below, and our past events [here](#past-events). You can
 
 ## Mar 2020: Metagenomics Pipelines
 
-Monday, Mar 23, 2020 \| 4-5pm \| THSL 2901
+Monday, Mar 23, 2020 \| 4-5pm \| Virtual meeting
 
 _Metagenomics Pipelines_
 
@@ -19,17 +19,11 @@ Presented by Will Close
 
 ## Apr 2020: Plotting with ggplot2
 
-Monday, Apr 27, 2020 \| 4-5pm \| THSL 2901
+Monday, Apr 27, 2020 \| 4-5pm \| Virtual meeting
 
 _Plotting with ggplot2_
 
 Presented by Matt Schnizlein
-
-## May 2020: Symposium
-
-Friday, May 29th, 2020 \| 9am-4pm \| Rackham Building
-
-See more information [here](https://um-dang.github.io/symposium/).
 
 ## June 2020: Help Session
 
