@@ -136,7 +136,7 @@ redirect_from:
 
 {% endfor %}
 
-## Alumni
+# Alumni
 
 {% for author in site.data.alumni %}
 {% assign loopindex = forloop.index | modulo: 4 %}
