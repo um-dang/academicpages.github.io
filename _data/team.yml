@@ -16,6 +16,12 @@
   github: "kelly-sovacool"
   uri: "https://sovacool.dev"
 
+- Luis Correa:
+  name: "Luis Correa"
+  bio: "Immunology PhD Student"
+  avatar: "/images/team/luis.jpg"
+  github: "CorreaL17"
+
 - Will Close:
   name: "Will Close"
   bio: "Postdoctoral Researcher"
@@ -23,23 +29,9 @@
   twitter: "WilliamLClose"
   github: "wclose"
 
-- Luis Correa:
-  name: "Luis Correa"
-  bio: "Immunology PhD Student"
-  avatar: "/images/team/luis.jpg"
-  github: "CorreaL17"
-
 - Ari Kozik:
   name: "Ari Kozik"
   bio: "Postdoctoral Researcher (Respiratory Microbiome)"
   avatar: "/images/team/ari.jpg"
   twitter: "dr_kozik"
   github: "aj-kozik"
-
-- Matt Ostrowski:
-  name: "Matt Ostrowski"
-  bio: "Postdoctoral Researcher"
-  avatar: "/images/team/matt.jpg"
-  email: "mpostrow@umich.edu"
-  github: "aweder9"
-
