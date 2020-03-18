@@ -11,7 +11,7 @@ See our upcoming events below, and our past events [here](#past-events). You can
 
 ## Mar 2020: Metagenomics Pipelines
 
-Monday, Mar 23, 2020 \| 4-5pm \| Virtual meeting [[BlueJeans link](https://bluejeans.com/795381768)]
+Monday, Mar 23, 2020 \| 4-5pm \| Virtual meeting [[BlueJeans link](https://bluejeans.com/795381768)] \| [[Google Cal](http://www.google.com/calendar/event?action=TEMPLATE&text=DANG%21%20Meeting%20%5BVirtual%5D&dates=20200323T200000Z/20200323T210000Z&details=The%20Data%20Analysis%20Networking%20Group%20%28DANG%21%29%20is%20a%20forum%20for%20post-docs%2C%20grad%20students%2C%20and%20other%20researchers%20at%20the%20University%20of%20Michigan%20to%20discuss%20how%20to%20analyze%2C%20present%2C%20and%20visualize%20their%20data.%20Monthly%20meetings%20cover%20requested%20topics%20or%20specific...&location=https://bluejeans.com/795381768%20-%20https%3A%2F%2Fbluejeans.com%2F795381768&trp=false&sprop=&sprop=name:) \| [iCal](https://events.umich.edu/event/73878-18377660/feed/ical)]
 
 _Metagenomics Pipelines_
 
