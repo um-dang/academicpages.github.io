@@ -11,7 +11,7 @@ See our upcoming events below, and our past events [here](#past-events). You can
 
 ## Mar 2020: Metagenomics Pipelines
 
-Monday, Mar 23, 2020 \| 4-5pm \| Virtual meeting
+Monday, Mar 23, 2020 \| 4-5pm \| Virtual meeting [[BlueJeans link](https://bluejeans.com/795381768)]
 
 _Metagenomics Pipelines_
 
