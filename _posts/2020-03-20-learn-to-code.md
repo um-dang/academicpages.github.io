@@ -1,8 +1,12 @@
 ---
 layout: single
-title: "Teach yourself to code"
+title: Teach yourself to code
 date: 2020-03-20
 permalink: /posts/2020/03/learn-to-code/
+sidebar:
+  - title: ""
+    image: "logo1_AK.png"
+    image_alt: "logo"
 ---
 _Written by Kelly Sovacool & Zena Lapp. Edited by Ari Kozik._
 
