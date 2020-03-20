@@ -4,12 +4,11 @@ title: Teach yourself to code
 date: 2020-03-20
 permalink: /posts/2020/03/learn-to-code/
 sidebar:
-  - title: ""
-    image: "logo1_AK.png"
-    image_alt: "logo"
+  - title: "Authors:"
     text: "Zena Lapp & Kelly Sovacool"
+  - title: "Editor:"
+    text: "Ari Kozik"
 ---
-_Written by Kelly Sovacool & Zena Lapp. Edited by Ari Kozik._
 
 As most lab work at the University of Michigan comes to a temporary halt due
 to the ongoing COVID-19 pandemic, we've heard some of our fellow grad students
