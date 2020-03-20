@@ -91,3 +91,6 @@ The Carpentries has instructions for installing the tools you'll need:
 Further reading:
 - [Ten simple rules for biologists learning to program](https://doi.org/10.1371/journal.pcbi.1005871)
 - [Suck until you don't](http://www.academichermit.com/2016/01/04/Suck-until-you-dont.html)
+
+
+_Written by Zena Lapp & Kelly Sovacool. Edited by Ari Kozik._
