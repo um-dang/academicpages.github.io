@@ -32,17 +32,17 @@ However, we recommend sticking to learning just one language at first so you don
 
 ## How to learn it?
 
-- [Code Academy](https://www.codecademy.com/) is a good place to start for their free beginner [R](https://www.codecademy.com/learn/learn-r) and [Python](https://www.codecademy.com/learn/learn-python) lessons in an interactive format.
-- Zena and her sister Maya created [a guide to teaching yourself R](https://github.com/zenalapp/teach-yourself-r/wiki). It takes you through the Code Academy lesson and also has extra exercises to practice data analysis.
-- [The Carpentries](https://carpentries.org/) is an organization that holds workshops to teach introductory programming skills to researchers. [U-M has a Carpentries chapter](https://umswc.github.io/) that holds workshops regularly throughout the year (with the exception of during pandemics 😬). We highly recommend attending an in-person workshop if you get the opportunity, but you can access the lesson materials for [R](http://swcarpentry.github.io/r-novice-gapminder/) and [Python](http://swcarpentry.github.io/python-novice-gapminder/) online if you'd like to learn on your own. The Carpentries has also translated [their R lesson to Spanish](https://swcarpentry.github.io/r-novice-gapminder-es/).
-- As part of [Girls Who Code at U-M](http://umich.edu/~girlswc/), Zena and Kelly have contributed to a curriculum teaching Python for Data Science aimed at high school students. You can find instructions for getting started [here](https://github.com/GWC-DCMB/GWC-DCMB/blob/master/get-started.md).
+- [Code Academy](https://www.codecademy.com/) is a good place to start for their free beginner [**R**](https://www.codecademy.com/learn/learn-r) and [**Python**](https://www.codecademy.com/learn/learn-python) lessons in an interactive format.
+- Zena and her sister Maya created [a guide to teaching yourself **R**](https://github.com/zenalapp/teach-yourself-r/wiki). It takes you through the Code Academy lesson and also has extra exercises to practice data analysis.
+- [The Carpentries](https://carpentries.org/) is an organization that holds workshops to teach introductory programming skills to researchers. [U-M has a Carpentries chapter](https://umswc.github.io/) that holds workshops regularly throughout the year (with the exception of during pandemics 😬). We highly recommend attending an in-person workshop if you get the opportunity, but you can access the lesson materials for **[R](http://swcarpentry.github.io/r-novice-gapminder/)** and [**Python**](http://swcarpentry.github.io/python-novice-gapminder/) online if you'd like to learn on your own. The Carpentries has also translated [their **R** lesson to Spanish](https://swcarpentry.github.io/r-novice-gapminder-es/).
+- As part of [Girls Who Code at U-M](http://umich.edu/~girlswc/), Zena and Kelly have contributed to a curriculum teaching **Python** for Data Science aimed at high school students. You can find instructions for getting started [here](https://github.com/GWC-DCMB/GWC-DCMB/blob/master/get-started.md).
 
 If you've exhausted these options, here's an [overwhelmingly long list of links](https://sovacool.dev/posts/2019/05/bioinf-resources) to even more resources and tools you might like to learn.
 
 ## How to use it in the real world?
 
 If you want to automate tasks, run your code on supercomputers, and make your friends think you're a hacker,
-you should definitely learn the Unix Shell. You can find The Carpentries' lesson on the Unix Shell [here](http://swcarpentry.github.io/shell-novice/).
+you should definitely learn the **Unix Shell**. You can find The Carpentries' lesson on the Unix Shell [here](http://swcarpentry.github.io/shell-novice/).
 
 The Carpentries has instructions for installing the tools you'll need:
 - [Python](http://swcarpentry.github.io/python-novice-gapminder/setup/)
