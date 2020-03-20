@@ -7,6 +7,7 @@ sidebar:
   - title: ""
     image: "logo1_AK.png"
     image_alt: "logo"
+    text: "Zena Lapp & Kelly Sovacool"
 ---
 _Written by Kelly Sovacool & Zena Lapp. Edited by Ari Kozik._
 
