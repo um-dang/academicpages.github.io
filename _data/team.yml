@@ -2,8 +2,7 @@
 
 - Zena Lapp:
   name: "Zena Lapp"
-  bio: "Grad Student Coordinator"
-  bio2: "Bioinformatics PhD candidate"
+  bio: "Grad Student Coordinator <br> Bioinformatics PhD candidate"
   avatar: "/images/team/zena.jpg"
   github: "zmml"
   linkedin: "zenalapp"
@@ -25,14 +24,14 @@
 
 - Will Close:
   name: "Will Close"
-  bio: "Postdoctoral Researcher"
+  bio: "Postdoctoral Researcher <br> (Microbiology)"
   avatar: "https://avatars0.githubusercontent.com/u/25166098?s=400&v=4"
   twitter: "WilliamLClose"
   github: "wclose"
 
 - Ari Kozik:
   name: "Ari Kozik"
-  bio: "Postdoctoral Researcher (Respiratory Microbiome)"
+  bio: "Postdoctoral Researcher <br> (Respiratory Microbiome)"
   avatar: "/images/team/ari.jpg"
   twitter: "dr_kozik"
   github: "aj-kozik"
