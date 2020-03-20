@@ -6,7 +6,8 @@ main:
     url: /events/
   - title: "Team"
     url: /team/
+  - title: "Posts"
+    url: /posts/
 #  - title: "Symposium"
 #    url: /symposium/
-#  - title: "Blog"
-#    url: /posts/
+
