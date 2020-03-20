@@ -27,7 +27,7 @@ If you're not sure which one to pick and you'd like to get help from the _DANG!_
 We also particularly like R for a package called R Markdown for turning code into analysis reports, manuscripts, and even presentations to easily & reproducibly share our work with others.
 
 The logic of programming is the most important thing to learn, so deciding to pick up another language once you have experience in one should be easier.
-And it's definitely not an "either/or" scenario; as of this writing Kelly regularly uses both R and Python, and occasionally C++.
+And it's definitely not an "either/or" scenario; many experienced programmers use multiple languages regularly in their work.
 However, we recommend sticking to learning just one language at first so you don't get overwhelmed.
 
 ## How to learn it?
@@ -41,8 +41,8 @@ If you've exhausted these options, here's an [overwhelmingly long list of links]
 
 ## How to use it in the real world?
 
-If you want to automate tasks, run your code on supercomputers, and make your friends think you're a hacker,
-you should definitely learn the **Unix Shell**. You can find The Carpentries' lesson on the Unix Shell [here](http://swcarpentry.github.io/shell-novice/).
+If you want to automate tasks, run your code on supercomputers, and make your friends think you're a hacker, you should definitely learn the **Unix Shell**.
+You can find The Carpentries' lesson on the Unix Shell [here](http://swcarpentry.github.io/shell-novice/).
 
 The Carpentries has instructions for installing the tools you'll need:
 - [Python](http://swcarpentry.github.io/python-novice-gapminder/setup/)
@@ -54,6 +54,7 @@ The Carpentries has instructions for installing the tools you'll need:
 1. Google is your best friend. No, really. We Google questions every day!
 1. Ask your friends, colleagues, etc. Especially when you're just starting out, it can be difficult to know _what_ to Google to get the answers you need. Ask a more advanced programmer as soon as you hit a wall.
 1. Join the [_DANG!_ Slack workspace]((https://join.slack.com/t/umich-dang/shared_invite/enQtNjEzMTU5MDU3MDU2LTdhNGZjMzJmNDc0NTFkZDVkMjBmMjFhM2ZjN2QzMGY2ZDcwMTU4ZTcwOTdjZTJmMGI3MTExMGIxOTljMjllMzA)) and use the `#analysis_questions` channel. _DANG!_ exists because we think it's important to have a [community of practice](https://teachtogether.tech/#s:community) so you can learn from other people, get personalized help when you need it, and help others.
+
 
 Further reading:
 - [Ten simple rules for biologists learning to program](https://doi.org/10.1371/journal.pcbi.1005871)
