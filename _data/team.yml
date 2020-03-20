@@ -2,7 +2,8 @@
 
 - Zena Lapp:
   name: "Zena Lapp"
-  bio: "Grad Student Coordinator, Bioinformatics PhD candidate"
+  bio: "Grad Student Coordinator"
+  bio2: "Bioinformatics PhD candidate"
   avatar: "/images/team/zena.jpg"
   github: "zmml"
   linkedin: "zenalapp"
@@ -10,9 +11,8 @@
 
 - Kelly Sovacool:
   name: "Kelly Sovacool"
-  bio: "Grad Student Coordinator
-        \n
-        Bioinformatics PhD Student"
+  bio: "Grad Student Coordinator"
+  bio2: "Bioinformatics PhD student"
   avatar: "/images/team/kelly.jpg"
   twitter: "kelly_sovacool"
   github: "kelly-sovacool"
