@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Teach yourself to code"
-author: DANG team
+author: DANG! team
 date: 2020-03-20
 permalink: /posts/2020/03/learn-to-code/
 ---
