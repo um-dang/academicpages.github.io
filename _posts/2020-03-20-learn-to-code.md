@@ -5,9 +5,7 @@ date: 2020-03-20
 permalink: /posts/2020/03/learn-to-code/
 sidebar:
   - title: ""
-    text: "Authors: Zena Lapp & Kelly Sovacool"
-  - title: ""
-    text: "Editor: Ari Kozik"
+    text: "Authors: <br> Zena Lapp & Kelly Sovacool <br> Editor: Ari Kozik"
 ---
 
 As most lab work at the University of Michigan comes to a temporary halt due
