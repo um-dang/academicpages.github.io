@@ -5,7 +5,7 @@ date: 2020-03-20
 permalink: /posts/2020/03/learn-to-code/
 sidebar:
   - title: ""
-    text: "Authors: <br> Zena Lapp & Kelly Sovacool <br> Editor: Ari Kozik"
+    text: "Authors: <br> Zena Lapp & Kelly Sovacool <br><br> Editor: Ari Kozik"
 ---
 
 As most lab work at the University of Michigan comes to a temporary halt due
@@ -92,5 +92,5 @@ Further reading:
 - [Ten simple rules for biologists learning to program](https://doi.org/10.1371/journal.pcbi.1005871)
 - [Suck until you don't](http://www.academichermit.com/2016/01/04/Suck-until-you-dont.html)
 
-
+<br><br>
 _Written by Zena Lapp & Kelly Sovacool. Edited by Ari Kozik._
