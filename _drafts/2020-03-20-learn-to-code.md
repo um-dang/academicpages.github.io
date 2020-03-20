@@ -1,10 +1,26 @@
 ---
 layout: post
-title: "Learn to code"
+title: "Teach yourself to code"
 date: 2020-03-20
 permalink: /posts/2020/03/learn-to-code/
 ---
 _Written by Kelly Sovacool & Zena Lapp_
+
+As most lab work at the University of Michigan is coming to a temporary halt due
+to the ongoing COVID-19 pandemic, we've heard some of our fellow grad students
+and other researchers express an interest in learning how to code as they're not
+able to conduct experimental work at this time. We thought we could help out by
+putting together this short guide on how to teach yourself to code.
+
+However, we don't want to contribute to the voices pressuring academics to be
+productive at a time when we should all be prioritizing our mental and physical
+health and that of our families. First above all, take care of yourself and
+your loved ones! If you _also_ have found the motivation and time to teach
+yourself how to code, then this guide is for you.
+
+The audience we have in mind is grad students, postdocs, and other scientists
+who have never written code before, but most of this applies to just about
+anyone wanting to learn.
 
 ## Why learn to code?
 
@@ -17,18 +33,29 @@ _Written by Kelly Sovacool & Zena Lapp_
 
 ## What language to learn?
 
-If there's a single popular language that everyone else in your lab, department, or field uses, just start with that one.
-Why? You will want to be able to learn from others and ask for help when you need it.
-For scientific research, both **R** and **Python** are popular languages and great for getting started quickly with data analysis.
-R and Python are **open source**, meaning they are free as in _libre_ and free as in _free food at the department seminar_! So you don't need to buy a license to use them, you'll have access after you leave the university, and anyone else with a computer will be able to run your code too.
+If there's a single popular language that everyone else in your lab, department,
+or field uses, just start with that one.
+[Why?](https://www.riffomonas.org/minimalR/00_introduction.html#why-r)
+You will want to be able to learn from others and ask for help when you need it.
+For scientific research, both
+**R** and **Python** are popular languages and great for getting started quickly
+with data analysis. R and Python are **open source**, meaning they are free as
+in _libre_ and free as in _free food at the department seminar_! So you don't
+need to buy a license to use them, you'll have access after you leave the
+university, and anyone else with a computer will be able to run your code too.
 
-Scientists in the _DANG!_ community use R, Python, and/or other languages, but R seems to be the most common.
-If you're not sure which one to pick and you'd like to get help from the _DANG!_ community, try R.
-We also particularly like R for a package called R Markdown for turning code into analysis reports, manuscripts, and even presentations to easily & reproducibly share our work with others.
+Scientists in the _DANG!_ community use R, Python, and/or other languages, but
+R seems to be the most common. If you're not sure which one to pick and you'd
+like to get help from the _DANG!_ community, try R. We also particularly like R
+for a package called R Markdown for turning code into analysis reports,
+manuscripts, and even presentations to easily & reproducibly share our work with
+others.
 
-The logic of programming is the most important thing to learn, so deciding to pick up another language once you have experience in one should be easier.
-And it's definitely not an "either/or" scenario; many experienced programmers use multiple languages regularly in their work.
-However, we recommend sticking to learning just one language at first so you don't get overwhelmed.
+The logic of programming is the most important thing to learn, so deciding to
+pick up another language once you have experience in one should be easier. And
+it's definitely not an "either/or" scenario; many experienced programmers use
+multiple languages regularly in their work. However, we recommend sticking to
+learning just one language at first so you don't get overwhelmed.
 
 ## How to learn it?
 
@@ -37,11 +64,14 @@ However, we recommend sticking to learning just one language at first so you don
 - [The Carpentries](https://carpentries.org/) is an organization that holds workshops to teach introductory programming skills to researchers. [U-M has a Carpentries chapter](https://umswc.github.io/) that holds workshops regularly throughout the year (with the exception of during pandemics 😬). We highly recommend attending an in-person workshop if you get the opportunity, but you can access the lesson materials for **[R](http://swcarpentry.github.io/r-novice-gapminder/)** and [**Python**](http://swcarpentry.github.io/python-novice-gapminder/) online if you'd like to learn on your own. The Carpentries has also translated [their **R** lesson to Spanish](https://swcarpentry.github.io/r-novice-gapminder-es/).
 - As part of [Girls Who Code at U-M](http://umich.edu/~girlswc/), Zena and Kelly have contributed to a curriculum teaching **Python** for Data Science aimed at high school students. You can find instructions for getting started [here](https://github.com/GWC-DCMB/GWC-DCMB/blob/master/get-started.md).
 
-If you've exhausted these options, here's an [overwhelmingly long list of links](https://sovacool.dev/posts/2019/05/bioinf-resources) to even more resources and tools you might like to learn.
+If you've exhausted these options, here's an
+[overwhelmingly long list of links](https://sovacool.dev/posts/2019/05/bioinf-resources)
+to even more resources and tools you might like to learn.
 
 ## How to use it in the real world?
 
-If you want to automate tasks, run your code on supercomputers, and make your friends think you're a hacker, you should definitely learn the **Unix Shell**.
+If you want to automate tasks, run your code on supercomputers, and make your
+friends think you're a hacker, you should definitely learn the **Unix Shell**.
 You can find The Carpentries' lesson on the Unix Shell [here](http://swcarpentry.github.io/shell-novice/).
 
 The Carpentries has instructions for installing the tools you'll need:
