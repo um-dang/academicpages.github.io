@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Teach yourself to code"
+title: "Learn to code"
 date: 2020-03-20
 permalink: /posts/2020/03/learn-to-code/
 ---
@@ -53,7 +53,7 @@ The Carpentries has instructions for installing the tools you'll need:
 
 1. Google is your best friend. No, really. We Google questions every day!
 1. Ask your friends, colleagues, etc. Especially when you're just starting out, it can be difficult to know _what_ to Google to get the answers you need. Ask a more advanced programmer as soon as you hit a wall.
-1. Join the [_DANG!_ Slack workspace]((https://join.slack.com/t/umich-dang/shared_invite/enQtNjEzMTU5MDU3MDU2LTdhNGZjMzJmNDc0NTFkZDVkMjBmMjFhM2ZjN2QzMGY2ZDcwMTU4ZTcwOTdjZTJmMGI3MTExMGIxOTljMjllMzA)) and use the `#analysis_questions` channel. _DANG!_ exists because we think it's important to have a [community of practice](https://teachtogether.tech/#s:community) so you can learn from other people, get personalized help when you need it, and help others.
+1. Join the [_DANG!_ Slack workspace](https://join.slack.com/t/umich-dang/shared_invite/enQtNjEzMTU5MDU3MDU2LTdhNGZjMzJmNDc0NTFkZDVkMjBmMjFhM2ZjN2QzMGY2ZDcwMTU4ZTcwOTdjZTJmMGI3MTExMGIxOTljMjllMzA) and use the `#analysis_questions` channel. _DANG!_ exists because we think it's important to have a [community of practice](https://teachtogether.tech/#s:community) so you can learn from other people, get personalized help when you need it, and help others.
 
 
 Further reading:
