@@ -27,8 +27,6 @@ redirect_from:
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
-    {% if author.bio1 %}<p class="author__bio">{{ author.bio1 }}</p>{% endif %}
-    {% if author.bio2 %}<p class="author__bio">{{ author.bio2 }}</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
