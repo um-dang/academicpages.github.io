@@ -1,13 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Teach yourself to code"
 date: 2020-03-20
 permalink: /posts/2020/03/learn-to-code/
-author_profile: false
-sidebar:
-  - title: "DANG!"
-    image: "/images/logo1_AK.png"
-    image_alt: "logo"
 ---
 _Written by Kelly Sovacool & Zena Lapp. Edited by Ari Kozik._
 
