@@ -28,6 +28,7 @@ We also particularly like R for a package called R Markdown for turning code int
 
 The logic of programming is the most important thing to learn, so deciding to pick up another language once you have experience in one should be easier.
 And it's definitely not an "either/or" scenario; as of this writing Kelly regularly uses both R and Python, and occasionally C++.
+However, we recommend sticking to learning just one language at first so you don't get overwhelmed.
 
 ## How to learn it?
 
