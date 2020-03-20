@@ -30,8 +30,8 @@
   {% if seo_author.twitter %}
     {% assign seo_author_twitter = seo_author.twitter %}
   {% else %}
-    {% if site.data.team and site.data.team[seo_author] %}
-      {% assign seo_author_twitter = site.data.team[seo_author].twitter  %}
+    {% if site.data.team and site.data.authors[seo_author] %}
+      {% assign seo_author_twitter = site.data.authors[seo_author].twitter  %}
     {% else %}
       {% assign seo_author_twitter = seo_author  %}
     {% endif %}
