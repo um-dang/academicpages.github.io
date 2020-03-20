@@ -6,20 +6,20 @@ permalink: /posts/2020/03/learn-to-code/
 ---
 _Written by Kelly Sovacool & Zena Lapp_
 
-As most lab work at the University of Michigan is coming to a temporary halt due
+As most lab work at the University of Michigan comes to a temporary halt due
 to the ongoing COVID-19 pandemic, we've heard some of our fellow grad students
 and other researchers express an interest in learning how to code as they're not
 able to conduct experimental work at this time. We thought we could help out by
 putting together this short guide on how to teach yourself to code.
 
-However, we don't want to contribute to the voices pressuring academics to be
+First above all, take care of yourself and your loved ones!
+We don't want to contribute to the voices pressuring academics to be
 productive at a time when we should all be prioritizing our mental and physical
-health and that of our families. First above all, take care of yourself and
-your loved ones! If you _also_ have found the motivation and time to teach
+health and that of our families.  If you _also_ have found the motivation and time to teach
 yourself how to code, then this guide is for you.
 
-The audience we have in mind is grad students, postdocs, and other scientists
-who have never written code before, but most of this applies to just about
+We wrote this guide with grad students, postdocs, and other scientists
+who have never written code before in mind, but most of the content applies to just about
 anyone wanting to learn.
 
 ## Why learn to code?
@@ -57,7 +57,7 @@ it's definitely not an "either/or" scenario; many experienced programmers use
 multiple languages regularly in their work. However, we recommend sticking to
 learning just one language at first so you don't get overwhelmed.
 
-## How to learn it?
+## How to get started?
 
 - [Code Academy](https://www.codecademy.com/) is a good place to start for their free beginner [**R**](https://www.codecademy.com/learn/learn-r) and [**Python**](https://www.codecademy.com/learn/learn-python) lessons in an interactive format.
 - Zena and her sister Maya created [a guide to teaching yourself **R**](https://github.com/zenalapp/teach-yourself-r/wiki). It takes you through the Code Academy lesson and also has extra exercises to practice data analysis.
