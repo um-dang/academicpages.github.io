@@ -27,6 +27,6 @@ Join our [Slack workspace](https://join.slack.com/t/umich-dang/shared_invite/enQ
 (New to Slack? [Here's how to get started!](https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-members))
 
 We're always looking for community members to get involved with planning & leading our meetings.
-If you have a topic idea or would like to present, sign up by contacting us at [dang-admins@umich.edu](mailto:dang-admins@umich.edu).
+If you have a topic idea or would like to present, sign up by contacting us at [umich.dang-requests@umich.edu](mailto:umich.dang-requests@umich.edu).
 Anyone can lead a meeting!
 Check out our [past events](https://um-dang.github.io/events/#past-events) to see topics we've covered recently.
