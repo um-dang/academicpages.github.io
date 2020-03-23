@@ -17,6 +17,8 @@ _Introduction to Viral Community Metagenomics_
 
 In this presentation, we will go over the steps required to analyze community composition using metagenomics. Topics covered will include read quality control, assembly, binning, and classification. While this talk is framed around analyzing viral communities, the principles also apply to the study of other populations, including bacteria.
 
+GitHub repo: [wclose/viralMetagenomicsPipeline](https://github.com/wclose/viralMetagenomicsPipeline)
+
 ## Apr 2020: Plotting with ggplot2
 
 Monday, Apr 27, 2020 \| 4-5pm \| Virtual meeting
