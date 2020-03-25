@@ -24,7 +24,7 @@ We wrote this guide with grad students, postdocs, and other scientists
 who have never written code before in mind, but most of the content applies to just about
 anyone wanting to learn.
 
-</br>
+<br>
 
 > 📣 **UPDATE** 25 Mar. 2020:
 > [Pat Schloss](http://www.schlosslab.org/labbies/schloss.html) is running a weekly Code Club via Zoom for those who want to learn R and improve their data analysis skills. All experience levels are welcome! See details here: [riffomonas.org/code_club/](http://www.riffomonas.org/code_club/).
