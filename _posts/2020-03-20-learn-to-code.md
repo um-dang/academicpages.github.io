@@ -25,7 +25,9 @@ who have never written code before in mind, but most of the content applies to j
 anyone wanting to learn.
 
 > 📣 **UPDATE** 25 Mar. 2020:
-> [Pat Schloss](http://www.schlosslab.org/labbies/schloss.html) is running a weekly Code Club via Zoom for those who want to learn R and improve their data analysis skills. All experience levels are welcome! See details here: [riffomonas.org/code_club/](http://www.riffomonas.org/code_club/).
+> [Pat Schloss](http://www.schlosslab.org/labbies/schloss.html) is running a weekly Code Club via Zoom for those who want to learn R and improve their data analysis skills. 
+> All experience levels are welcome! 
+> See details here: [riffomonas.org/code_club](http://www.riffomonas.org/code_club/).
 
 
 ## Why learn to code?
