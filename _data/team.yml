@@ -35,3 +35,10 @@
   avatar: "/images/team/ari.jpg"
   twitter: "dr_kozik"
   github: "aj-kozik"
+
+- Matt Ostrowski:
+  name: "Matt Ostrowski"
+  bio: "Postdoctoral Researcher"
+  avatar: "/images/team/matt.jpg"
+  email: "mpostrow@umich.edu"
+  github: "aweder9"
