@@ -8,13 +8,6 @@ sidebar:
     text: "Authors: <br> Zena Lapp & Kelly Sovacool <br><br> Editor: Ari Kozik"
 ---
 
- 
-
-
-> 📣 **UPDATE** 25 Mar. 2020:
-> [Pat Schloss](http://www.schlosslab.org/labbies/schloss.html) is running a weekly Code Club via Zoom for those who want to learn R and improve their data analysis skills. All experience levels are welcome! See details here: http://www.riffomonas.org/code_club/.
-
-
 As most lab work at the University of Michigan comes to a temporary halt due
  to the ongoing COVID-19 pandemic, we've heard some of our fellow grad students
 and other researchers express an interest in learning how to code as they're not
@@ -30,6 +23,12 @@ yourself how to code, then this guide is for you.
 We wrote this guide with grad students, postdocs, and other scientists
 who have never written code before in mind, but most of the content applies to just about
 anyone wanting to learn.
+
+> 📣 **UPDATE** 25 Mar. 2020:
+> [Pat Schloss](http://www.schlosslab.org/labbies/schloss.html) is running a weekly Code Club via Zoom for those who want to learn R and improve their data analysis skills. 
+> All experience levels are welcome! 
+> See details here: [riffomonas.org/code_club](http://www.riffomonas.org/code_club/).
+
 
 ## Why learn to code?
 
