@@ -9,30 +9,15 @@ redirect_from:
 
 See our upcoming events below, and our past events [here](#past-events). You can also view our events feed at the [UMich Events Calendar](https://events.umich.edu/group/4456).
 
-## Mar 2020: Viral Community Metagenomics
+## Apr 2020: Help Session
 
-Monday, Mar 23, 2020 \| 4-5pm \| [Virtual meeting](https://bluejeans.com/795381768)
+Monday, Apr 27, 2020 \| 4-5pm \| [Virtual meeting](https://bluejeans.com/2916961058)
 
-_Introduction to Viral Community Metagenomics_
-
-In this presentation, we will go over the steps required to analyze community composition using metagenomics. Topics covered will include read quality control, assembly, binning, and classification. While this talk is framed around analyzing viral communities, the principles also apply to the study of other populations, including bacteria.
-
-GitHub repo: [wclose/viralMetagenomicsPipeline](https://github.com/wclose/viralMetagenomicsPipeline)
-
-## Apr 2020: Plotting with ggplot2
-
-Monday, Apr 27, 2020 \| 4-5pm \| Virtual meeting
-
-_Plotting with ggplot2_
-
-Presented by Matt Schnizlein
-
-## June 2020: Help Session
-
-Can't get that graph to look right? Frustrated with data cleaning? Want to squash bugs in your code and help others do the same? Join us for our help session in June [date/time TBD]! Bring your code/data OR come to network and help others at this informal session!
+Can't get that graph to look right? Frustrated with data cleaning? Want to squash bugs in your code and help others do the same? Bring your code/data OR come to network and help others at this informal session!
 
 # Past Events
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
+- [Mar 2020: Viral Community Metagenomics](#mar-2020-viral-community-metagenomics)
 - [Feb 2020: Snakemake](#feb-2020-snakemake)
 - [Jan 2020: Docker](#jan-2020-docker)
 - [Dec 2019: Help Desk](#dec-2019-help-desk)
@@ -47,6 +32,16 @@ Can't get that graph to look right? Frustrated with data cleaning? Want to squas
 - [Mar 2019: Making UNIX Yours](#mar-2019-making-unix-yours)
 
 <!-- /TOC -->
+
+## Mar 2020: Viral Community Metagenomics
+
+Monday, Mar 23, 2020 \| 4-5pm \| [Virtual meeting](https://bluejeans.com/795381768)
+
+_Introduction to Viral Community Metagenomics_
+
+In this presentation, we will go over the steps required to analyze community composition using metagenomics. Topics covered will include read quality control, assembly, binning, and classification. While this talk is framed around analyzing viral communities, the principles also apply to the study of other populations, including bacteria.
+
+GitHub repo: [wclose/viralMetagenomicsPipeline](https://github.com/wclose/viralMetagenomicsPipeline)
 
 ## Feb 2020: Snakemake
 
