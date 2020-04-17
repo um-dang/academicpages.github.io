@@ -41,7 +41,7 @@ _Introduction to Viral Community Metagenomics_
 
 In this presentation, we will go over the steps required to analyze community composition using metagenomics. Topics covered will include read quality control, assembly, binning, and classification. While this talk is framed around analyzing viral communities, the principles also apply to the study of other populations, including bacteria.
 
-GitHub repo: [wclose/viralMetagenomicsPipeline](https://github.com/wclose/viralMetagenomicsPipeline)
+GitHub repo: [viralMetagenomicsPipeline](https://github.com/um-dang/viralMetagenomicsPipeline)
 
 ## Feb 2020: Snakemake
 
@@ -53,7 +53,7 @@ Join us as we learn about snakemake – a workflow management system used to cre
 
 Presented by Chris Gates & Travis Saari
 
-[Access the materials on GitHub.](https://github.com/um-dang/intro-to-snakemake)
+Access the materials on GitHub: [intro-to-snakemake](https://github.com/um-dang/intro-to-snakemake)
 
 ## Jan 2020: Docker
 
@@ -79,7 +79,7 @@ Come join us to learn about a fundamental coding concept: looping! Core concepts
 
 Presented by Stephanie Thiede
 
-[Access the materials on GitHub.](https://github.com/um-dang/loops-apply-r)
+Access the materials on GitHub: [loops-apply-r](https://github.com/um-dang/loops-apply-r)
 
 ## Oct 2019: Machine Learning Pipelines in R
 
@@ -91,7 +91,7 @@ Join us as we learn how to use the caret R package to develop machine learning (
 
 Presented by Begüm Topçuoğlu
 
-[Access the materials on GitHub.](https://github.com/um-dang/machine-learning-pipelines-r)
+Access the materials on GitHub: [machine-learning-pipelines-r](https://github.com/um-dang/machine-learning-pipelines-r)
 
 ## Sep 2019: Conda on the Cluster
 
@@ -103,7 +103,7 @@ Come join us as we learn how using Conda can help you better manage programs and
 
 Presented by Will Close
 
-[Access the materials on GitHub.](https://github.com/um-dang/conda_on_the_cluster)
+Access the materials on GitHub: [conda_on_the_cluster](https://github.com/um-dang/conda_on_the_cluster)
 
 
 ## Aug 2019: Making FUNctions in R
@@ -114,7 +114,7 @@ _Making FUNctions in R_
 
 Presented by Zena Lapp
 
-[Access the materials on GitHub.](https://github.com/um-dang/writing-functions-r)
+Access the materials on GitHub: [writing-functions-r](https://github.com/um-dang/writing-functions-r)
 
 ## July 2019: Help & Networking Social
 
