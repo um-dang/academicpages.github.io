@@ -9,14 +9,21 @@ redirect_from:
 
 See our upcoming events below, and our past events [here](#past-events). You can also view our events feed at the [UMich Events Calendar](https://events.umich.edu/group/4456).
 
-## Apr 2020: Help Session
+## May 2020: Data Science from the Bottom Up
 
-Monday, Apr 27, 2020 \| 4-5pm \| [Virtual meeting](https://bluejeans.com/2916961058)
+Monday, May 18, 2020 \| 4-4:30pm \| [Virtual meeting](https://bluejeans.com/2916961058)
 
-Can't get that graph to look right? Frustrated with data cleaning? Want to squash bugs in your code and help others do the same? Bring your code/data OR come to network and help others at this informal session!
+_Data Science from the Bottom Up: Computer Memory and Basic Data Structures_
+
+How do computers store and organize information? Starting from bits and bytes, we will explore how the most basic units of data are encoded in a computer. We then will look at how computers organize random access memory. Finally we will go over some of the basic data structures used by programs to keep track of information: arrays, linked lists, and hashes.
+
+Data Science from the Bottom Up is a series covering the basics of computer science. How do computers store information? Run calculations? Sort and filter? We start from the silicon and move our way up. Understanding the basics can help you understand better why some code run quickly and some code is slow.
+
+Presented by Jonathan Golob
 
 # Past Events
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
+- [Apr 2020: Help Session](#apr-2020-help-session)
 - [Mar 2020: Viral Community Metagenomics](#mar-2020-viral-community-metagenomics)
 - [Feb 2020: Snakemake](#feb-2020-snakemake)
 - [Jan 2020: Docker](#jan-2020-docker)
@@ -33,6 +40,12 @@ Can't get that graph to look right? Frustrated with data cleaning? Want to squas
 
 <!-- /TOC -->
 
+## Apr 2020: Help Session
+
+Monday, Apr 27, 2020 \| 4-5pm \| [Virtual meeting](https://bluejeans.com/2916961058)
+
+Can't get that graph to look right? Frustrated with data cleaning? Want to squash bugs in your code and help others do the same? Bring your code/data OR come to network and help others at this informal session!
+
 ## Mar 2020: Viral Community Metagenomics
 
 Monday, Mar 23, 2020 \| 4-5pm \| [Virtual meeting](https://bluejeans.com/795381768)
@@ -40,6 +53,8 @@ Monday, Mar 23, 2020 \| 4-5pm \| [Virtual meeting](https://bluejeans.com/7953817
 _Introduction to Viral Community Metagenomics_
 
 In this presentation, we will go over the steps required to analyze community composition using metagenomics. Topics covered will include read quality control, assembly, binning, and classification. While this talk is framed around analyzing viral communities, the principles also apply to the study of other populations, including bacteria.
+
+Presented by Will Close
 
 GitHub repo: [viralMetagenomicsPipeline](https://github.com/um-dang/viralMetagenomicsPipeline)
 
