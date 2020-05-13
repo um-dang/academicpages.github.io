@@ -1,6 +1,6 @@
 ---
 permalink: /alumni/
-title: "Alumni of The DANG! Team"
+title: "Alumni of the DANG! Team"
 excerpt: "Alumni"
 author_profile: true
 redirect_from:
