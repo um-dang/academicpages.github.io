@@ -1,16 +1,16 @@
 ---
-permalink: /team/
+permalink: /alumni/
 title: "The DANG! Team"
-excerpt: "Team"
+excerpt: "Alumni"
 author_profile: true
 redirect_from:
-  - /team.html
+  - /alumni.html
 ---
 
 {% include base_path %}
----
 
-{% for author in site.data.team %}
+---
+{% for author in site.data.alumni %}
 {% assign loopindex = forloop.index | modulo: 4 %}
 
 
@@ -135,7 +135,3 @@ redirect_from:
 ---
 
 {% endfor %}
-
----
-
-[Past team members](\alumni)
