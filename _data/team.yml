@@ -1,13 +1,5 @@
 # DANG! admin team
 
-- Kelly Sovacool:
-  name: "Kelly Sovacool"
-  bio: "Grad Student Coordinator <br> Bioinformatics PhD student"
-  avatar: "/images/team/kelly.jpg"
-  twitter: "kelly_sovacool"
-  github: "kelly-sovacool"
-  uri: "https://sovacool.dev"
-
 - Luis Correa:
   name: "Luis Correa"
   bio: "Grad Student Coordinator <br> Immunology PhD candidate"
@@ -32,3 +24,11 @@
   avatar: "/images/team/matt.jpg"
   email: "mpostrow@umich.edu"
   github: "aweder9"
+
+- Kelly Sovacool:
+  name: "Kelly Sovacool"
+  bio: "Grad Student Coordinator <br> Bioinformatics PhD student"
+  avatar: "/images/team/kelly.jpg"
+  twitter: "kelly_sovacool"
+  github: "kelly-sovacool"
+  uri: "https://sovacool.dev"
