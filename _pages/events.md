@@ -9,30 +9,22 @@ redirect_from:
 
 See our upcoming events below, and our past events [here](#past-events). You can also view our events feed at the [UMich Events Calendar](https://events.umich.edu/group/4456).
 
-## Mar 2020: Viral Community Metagenomics
+## May 2020: Data Science from the Bottom Up
 
-Monday, Mar 23, 2020 \| 4-5pm \| [Virtual meeting](https://bluejeans.com/795381768)
+Monday, May 18, 2020 \| 4-4:30pm \| [Virtual meeting](https://bluejeans.com/2916961058)
 
-_Introduction to Viral Community Metagenomics_
+_Data Science from the Bottom Up: Computer Memory and Basic Data Structures_
 
-In this presentation, we will go over the steps required to analyze community composition using metagenomics. Topics covered will include read quality control, assembly, binning, and classification. While this talk is framed around analyzing viral communities, the principles also apply to the study of other populations, including bacteria.
+How do computers store and organize information? Starting from bits and bytes, we will explore how the most basic units of data are encoded in a computer. We then will look at how computers organize random access memory. Finally we will go over some of the basic data structures used by programs to keep track of information: arrays, linked lists, and hashes.
 
-GitHub repo: [wclose/viralMetagenomicsPipeline](https://github.com/wclose/viralMetagenomicsPipeline)
+Data Science from the Bottom Up is a series covering the basics of computer science. How do computers store information? Run calculations? Sort and filter? We start from the silicon and move our way up. Understanding the basics can help you understand better why some code run quickly and some code is slow.
 
-## Apr 2020: Plotting with ggplot2
-
-Monday, Apr 27, 2020 \| 4-5pm \| Virtual meeting
-
-_Plotting with ggplot2_
-
-Presented by Matt Schnizlein
-
-## June 2020: Help Session
-
-Can't get that graph to look right? Frustrated with data cleaning? Want to squash bugs in your code and help others do the same? Join us for our help session in June [date/time TBD]! Bring your code/data OR come to network and help others at this informal session!
+Presented by Jonathan Golob
 
 # Past Events
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
+- [Apr 2020: Help Session](#apr-2020-help-session)
+- [Mar 2020: Viral Community Metagenomics](#mar-2020-viral-community-metagenomics)
 - [Feb 2020: Snakemake](#feb-2020-snakemake)
 - [Jan 2020: Docker](#jan-2020-docker)
 - [Dec 2019: Help Desk](#dec-2019-help-desk)
@@ -48,6 +40,24 @@ Can't get that graph to look right? Frustrated with data cleaning? Want to squas
 
 <!-- /TOC -->
 
+## Apr 2020: Help Session
+
+Monday, Apr 27, 2020 \| 4-5pm \| [Virtual meeting](https://bluejeans.com/2916961058)
+
+Can't get that graph to look right? Frustrated with data cleaning? Want to squash bugs in your code and help others do the same? Bring your code/data OR come to network and help others at this informal session!
+
+## Mar 2020: Viral Community Metagenomics
+
+Monday, Mar 23, 2020 \| 4-5pm \| [Virtual meeting](https://bluejeans.com/795381768)
+
+_Introduction to Viral Community Metagenomics_
+
+In this presentation, we will go over the steps required to analyze community composition using metagenomics. Topics covered will include read quality control, assembly, binning, and classification. While this talk is framed around analyzing viral communities, the principles also apply to the study of other populations, including bacteria.
+
+Presented by Will Close
+
+GitHub repo: [viralMetagenomicsPipeline](https://github.com/um-dang/viralMetagenomicsPipeline)
+
 ## Feb 2020: Snakemake
 
 Monday, Feb 24, 2020 \| 4-5pm \| THSL 2901
@@ -58,7 +68,7 @@ Join us as we learn about snakemake – a workflow management system used to cre
 
 Presented by Chris Gates & Travis Saari
 
-[Access the materials on GitHub.](https://github.com/um-dang/intro-to-snakemake)
+Access the materials on GitHub: [intro-to-snakemake](https://github.com/um-dang/intro-to-snakemake)
 
 ## Jan 2020: Docker
 
@@ -84,7 +94,7 @@ Come join us to learn about a fundamental coding concept: looping! Core concepts
 
 Presented by Stephanie Thiede
 
-[Access the materials on GitHub.](https://github.com/um-dang/loops-apply-r)
+Access the materials on GitHub: [loops-apply-r](https://github.com/um-dang/loops-apply-r)
 
 ## Oct 2019: Machine Learning Pipelines in R
 
@@ -96,7 +106,7 @@ Join us as we learn how to use the caret R package to develop machine learning (
 
 Presented by Begüm Topçuoğlu
 
-[Access the materials on GitHub.](https://github.com/um-dang/machine-learning-pipelines-r)
+Access the materials on GitHub: [machine-learning-pipelines-r](https://github.com/um-dang/machine-learning-pipelines-r)
 
 ## Sep 2019: Conda on the Cluster
 
@@ -108,7 +118,7 @@ Come join us as we learn how using Conda can help you better manage programs and
 
 Presented by Will Close
 
-[Access the materials on GitHub.](https://github.com/um-dang/conda_on_the_cluster)
+Access the materials on GitHub: [conda_on_the_cluster](https://github.com/um-dang/conda_on_the_cluster)
 
 
 ## Aug 2019: Making FUNctions in R
@@ -119,7 +129,7 @@ _Making FUNctions in R_
 
 Presented by Zena Lapp
 
-[Access the materials on GitHub.](https://github.com/um-dang/writing-functions-r)
+Access the materials on GitHub: [writing-functions-r](https://github.com/um-dang/writing-functions-r)
 
 ## July 2019: Help & Networking Social
 
