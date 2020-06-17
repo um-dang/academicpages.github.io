@@ -17,7 +17,7 @@ Do you have a problem that you've encountered in your analysis but haven't resol
 Have a bug you just can't seem to squash?
 Have an analysis idea but don't know how to do it?
 We want to help!
-Use this form to submit a problem you have that we can cover during this session: https://forms.gle/pZ1i1vhwjErAAK7g6
+Use [this form](https://forms.gle/pZ1i1vhwjErAAK7g6) to submit a problem you have that we can cover during this session. 
 Bring your code/data OR come to network and help others at this informal help session!
 
 ## July 2020: Modeling
