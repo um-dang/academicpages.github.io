@@ -9,21 +9,25 @@ redirect_from:
 
 See our upcoming events below, and our past events [here](#past-events). You can also view our events feed at the [UMich Events Calendar](https://events.umich.edu/group/4456).
 
-## May 2020: Data Science from the Bottom Up
+## June 2020: Help & Networking Social
 
-Monday, May 18, 2020 \| 4-4:30pm \| [Virtual meeting](https://bluejeans.com/2916961058)
+Monday, June 22, 2020 \| 4-5pm \| [Virtual meeting](https://umich.zoom.us/j/95232200506)
 
-_Data Science from the Bottom Up: Computer Memory and Basic Data Structures_
+Do you have a problem that you've encountered in your analysis but haven't resolved yet?
+Have a bug you just can't seem to squash?
+Have an analysis idea but don't know how to do it?
+We want to help!
+Use this form to submit a problem you have that we can cover during this session: https://forms.gle/pZ1i1vhwjErAAK7g6
+Bring your code/data OR come to network and help others at this informal help session!
 
-How do computers store and organize information? Starting from bits and bytes, we will explore how the most basic units of data are encoded in a computer. We then will look at how computers organize random access memory. Finally we will go over some of the basic data structures used by programs to keep track of information: arrays, linked lists, and hashes.
+## July 2020: Modeling
 
-Data Science from the Bottom Up is a series covering the basics of computer science. How do computers store information? Run calculations? Sort and filter? We start from the silicon and move our way up. Understanding the basics can help you understand better why some code run quickly and some code is slow.
-
-Presented by Jonathan Golob
+Monday, July 27, 2020 \| 4-5pm \| Virtual Meeting
 
 # Past Events
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
-- [Apr 2020: Help Session](#apr-2020-help-session)
+- [May 2020: Data Science from the Bottom Up](#may-2020-data-science-from-the-bottomup)
+- [Apr 2020: Help & Networking Social](#apr-2020-help-networking-social)
 - [Mar 2020: Viral Community Metagenomics](#mar-2020-viral-community-metagenomics)
 - [Feb 2020: Snakemake](#feb-2020-snakemake)
 - [Jan 2020: Docker](#jan-2020-docker)
@@ -40,7 +44,19 @@ Presented by Jonathan Golob
 
 <!-- /TOC -->
 
-## Apr 2020: Help Session
+## May 2020: Data Science from the Bottom Up
+
+Monday, May 18, 2020 \| 4-4:30pm \| [Virtual meeting](https://bluejeans.com/2916961058)
+
+_Data Science from the Bottom Up: Computer Memory and Basic Data Structures_
+
+How do computers store and organize information? Starting from bits and bytes, we will explore how the most basic units of data are encoded in a computer. We then will look at how computers organize random access memory. Finally we will go over some of the basic data structures used by programs to keep track of information: arrays, linked lists, and hashes.
+
+Data Science from the Bottom Up is a series covering the basics of computer science. How do computers store information? Run calculations? Sort and filter? We start from the silicon and move our way up. Understanding the basics can help you understand better why some code run quickly and some code is slow.
+
+Presented by Jonathan Golob
+
+## Apr 2020: Help & Networking Social
 
 Monday, Apr 27, 2020 \| 4-5pm \| [Virtual meeting](https://bluejeans.com/2916961058)
 
