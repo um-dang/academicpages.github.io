@@ -12,11 +12,11 @@ This requires trust on everyone's part.
 If a facilitator or participant breaks this trust, the goals of _DANG!_ will be significantly hindered.
 All participants and facilitators are required to agree with the following code of conduct.
 The _DANG!_ Team will enforce this code at all meetings (in person or virtual), on our email listserv, in our Slack workspace, and any other environments we facilitate.
-We expect cooperation from all participants to help ensure a safe environment for everybody.
+We expect cooperation from all participants to help ensure a great experience for everyone.
 
 ## The Quick Version
 
-Code Club is dedicated to provide a safe, welcoming, and harassment-free experience for everyone, regardless of coding proficiency, gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices.
+_DANG!_ is dedicated to providing a safe, welcoming, and harassment-free environment for everyone, regardless of coding proficiency, gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices.
 We do not tolerate harassment of participants in any form.
 Sexual language and imagery is not appropriate at any time.
 Participants violating these rules may be sanctioned or expelled from the meeting, email listserv, and/or Slack workspace at the discretion of the _DANG!_ Team.
