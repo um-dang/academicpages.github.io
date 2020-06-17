@@ -30,6 +30,7 @@ If you have a topic idea or would like to present, sign up by contacting us at [
 Anyone can lead a meeting!
 Check out our [past events](https://um-dang.github.io/events/#past-events) to see topics we've covered recently.
 
+---
 
 _DANG!_ is committed to providing a safe and welcoming environment for everybody.
 We expect all participants to adhere to our [Code of Conduct](code-of-conduct).
