@@ -19,7 +19,7 @@ Presented by Jon Zelner
 
 Monday, Aug 24, 2020 \| 4-5pm \| Virtual Meeting
 
-_An Introduction to Python for analysis of 16S rRNA Data_
+_An Introduction to Python for Analysis of 16S rRNA Data_
 
 Presented by Jonathan Golob
 
