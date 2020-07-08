@@ -23,7 +23,7 @@ _An Introduction to Python for Analysis of 16S rRNA Data_
 
 Presented by Jonathan Golob
 
-GitHub repo: [intro-python-16S-analysis](https://github.com/um-dang/intro-python-16S-analysis/invitations)
+GitHub repo: [intro-python-16S-analysis](https://github.com/um-dang/intro-python-16S-analysis)
 
 # Past Events
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
