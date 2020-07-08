@@ -9,23 +9,25 @@ redirect_from:
 
 See our upcoming events below, and our past events [here](#past-events). You can also view our events feed at the [UMich Events Calendar](https://events.umich.edu/group/4456).
 
-## June 2020: Help & Networking Social
-
-Monday, June 22, 2020 \| 4-5pm \| [Virtual meeting](https://umich.zoom.us/j/95232200506)
-
-Do you have a problem that you've encountered in your analysis but haven't resolved yet?
-Have a bug you just can't seem to squash?
-Have an analysis idea but don't know how to do it?
-We want to help!
-Use [this form](https://forms.gle/pZ1i1vhwjErAAK7g6) to submit a problem you have that we can cover during this session. 
-Bring your code/data OR come to network and help others at this informal help session!
-
 ## July 2020: Modeling
 
 Monday, July 27, 2020 \| 4-5pm \| Virtual Meeting
 
+Presented by Jon Zelner
+
+## Aug 2020: Python for 16S Analysis
+
+Monday, Aug 24, 2020 \| 4-5pm \| Virtual Meeting
+
+_An Introduction to Python for analysis of 16S rRNA Data_
+
+Presented by Jonathan Golob
+
+GitHub repo: [intro-python-16S-analysis](https://github.com/um-dang/intro-python-16S-analysis/invitations)
+
 # Past Events
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
+- [June 2020: Help & Networking Social](#june-2020-help-networking-social)
 - [May 2020: Data Science from the Bottom Up](#may-2020-data-science-from-the-bottomup)
 - [Apr 2020: Help & Networking Social](#apr-2020-help-networking-social)
 - [Mar 2020: Viral Community Metagenomics](#mar-2020-viral-community-metagenomics)
@@ -43,6 +45,17 @@ Monday, July 27, 2020 \| 4-5pm \| Virtual Meeting
 - [Mar 2019: Making UNIX Yours](#mar-2019-making-unix-yours)
 
 <!-- /TOC -->
+
+## June 2020: Help & Networking Social
+
+Monday, June 22, 2020 \| 4-5pm \| [Virtual meeting](https://umich.zoom.us/j/95232200506)
+
+Do you have a problem that you've encountered in your analysis but haven't resolved yet?
+Have a bug you just can't seem to squash?
+Have an analysis idea but don't know how to do it?
+We want to help!
+Use [this form](https://forms.gle/pZ1i1vhwjErAAK7g6) to submit a problem you have that we can cover during this session. 
+Bring your code/data OR come to network and help others at this informal help session!
 
 ## May 2020: Data Science from the Bottom Up
 
