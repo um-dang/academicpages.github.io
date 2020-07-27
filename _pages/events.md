@@ -9,12 +9,6 @@ redirect_from:
 
 See our upcoming events below, and our past events [here](#past-events). You can also view our events feed at the [UMich Events Calendar](https://events.umich.edu/group/4456).
 
-## July 2020: Modeling
-
-Monday, July 27, 2020 \| 4-5pm \| [Virtual Meeting](https://umich.zoom.us/j/99907479262)
-
-Presented by Jon Zelner
-
 ## Aug 2020: Python for 16S Analysis
 
 Monday, Aug 24, 2020 \| 4-5pm \| [Virtual Meeting](https://umich.zoom.us/j/92627856500)
