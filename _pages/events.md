@@ -9,17 +9,6 @@ redirect_from:
 
 See our upcoming events below, and our past events [here](#past-events). You can also view our events feed at the [UMich Events Calendar](https://events.umich.edu/group/4456).
 
-## Aug 2020: Intro Data Science with Python
-
-Monday, Aug 24, 2020 \| 4-5pm \| [Virtual Meeting](https://umich.zoom.us/j/92627856500)
-
-_A Gentle Introduction to Data Science with Python_
-
-Python is a capable and free (open source) programming language well-suited for analysis of data, including microbiome data. Together, we will go through a real-life example, re-analyzing microbiome - immune checkpoint inhibitor studies. We will touch on both the basics (loading in data, transforming, graphing, basic statistical analysis, and outputting data and figures), and use the examples to compare and contrast with some equivalents in R. This introduction should be suitable for those with no data analysis with code experience, but have some added dimensions for those familiar with R.
-Presented by Jonathan Golob
-
-GitHub repo: [intro-python-16S-analysis](https://github.com/um-dang/intro-python-16S-analysis)
-
 # Past Events
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
 - [June 2020: Help & Networking Social](#june-2020-help-networking-social)
@@ -40,6 +29,17 @@ GitHub repo: [intro-python-16S-analysis](https://github.com/um-dang/intro-python
 - [Mar 2019: Making UNIX Yours](#mar-2019-making-unix-yours)
 
 <!-- /TOC -->
+
+## Aug 2020: Intro Data Science with Python
+
+Monday, Aug 24, 2020 \| 4-5pm \| [Virtual Meeting](https://umich.zoom.us/j/92627856500) | [Video Recording](https://youtu.be/EGqTDY0J9x4)
+
+_A Gentle Introduction to Data Science with Python_
+
+Python is a capable and free (open source) programming language well-suited for analysis of data, including microbiome data. Together, we will go through a real-life example, re-analyzing microbiome - immune checkpoint inhibitor studies. We will touch on both the basics (loading in data, transforming, graphing, basic statistical analysis, and outputting data and figures), and use the examples to compare and contrast with some equivalents in R. This introduction should be suitable for those with no data analysis with code experience, but have some added dimensions for those familiar with R.
+Presented by Jonathan Golob
+
+GitHub repo: [intro-python-16S-analysis](https://github.com/um-dang/intro-python-16S-analysis)
 
 ## June 2020: Help & Networking Social
 
