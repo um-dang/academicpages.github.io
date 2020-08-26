@@ -32,7 +32,7 @@ See our upcoming events below, and our past events [here](#past-events). You can
 
 ## Aug 2020: Intro Data Science with Python
 
-Monday, Aug 24, 2020 \| 4-5pm \| [Virtual Meeting](https://umich.zoom.us/j/92627856500) | [Video Recording](https://youtu.be/EGqTDY0J9x4)
+Monday, Aug 24, 2020 \| 4-5pm \| [Virtual Meeting](https://umich.zoom.us/j/92627856500) | [Video Recording](https://youtu.be/VH48yhPJbQc)
 
 _A Gentle Introduction to Data Science with Python_
 
