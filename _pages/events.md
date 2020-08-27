@@ -11,6 +11,7 @@ See our upcoming events below, and our past events [here](#past-events). You can
 
 # Past Events
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
+- [Aug 2020: Intro Data Science with Python](#Aug-2020-Intro-Data-Science-with-Python)
 - [June 2020: Help & Networking Social](#june-2020-help-networking-social)
 - [May 2020: Data Science from the Bottom Up](#may-2020-data-science-from-the-bottomup)
 - [Apr 2020: Help & Networking Social](#apr-2020-help-networking-social)
@@ -32,7 +33,7 @@ See our upcoming events below, and our past events [here](#past-events). You can
 
 ## Aug 2020: Intro Data Science with Python
 
-Monday, Aug 24, 2020 \| 4-5pm \| [Virtual Meeting](https://umich.zoom.us/j/92627856500) | [Video Recording](https://youtu.be/VH48yhPJbQc)
+Monday, Aug 24, 2020 \| 4-5pm \| [Virtual Meeting](https://umich.zoom.us/j/92627856500) \| [Video Recording](https://youtu.be/VH48yhPJbQc)
 
 _A Gentle Introduction to Data Science with Python_
 
