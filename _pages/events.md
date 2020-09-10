@@ -9,6 +9,16 @@ redirect_from:
 
 See our upcoming events below, and our past events [here](#past-events). You can also view our events feed at the [UMich Events Calendar](https://events.umich.edu/group/4456).
 
+## Sep 2020: Organizing Projects for Reproducibility
+
+Monday, Sep 28, 2020 \| 4-5pm \| [Virtual Meeting](https://umich.zoom.us/j/93872662456) \| 
+
+_Repro-Packs: Organizing Projects for Reproducibility... and Headache Prevention!
+
+Presented by Kelly Sovacool
+
+GitHub repo: [repro-packs](https://github.com/um-dang/repro-packs)
+
 # Past Events
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
 - [Aug 2020: Intro Data Science with Python](#Aug-2020-Intro-Data-Science-with-Python)
