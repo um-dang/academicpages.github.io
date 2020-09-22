@@ -15,9 +15,9 @@ Monday, Sep 28, 2020 \| 4-5pm \| [Virtual Meeting](https://umich.zoom.us/j/93872
 
 _Repro-Packs: Organizing Projects for Reproducibility... and Headache Prevention!_
 
-Making your research projects reproducibile ensures that anyone, whether that's another scientist reading your publication or you six months from now, 
+Making your research projects reproducible ensures that anyone, whether that's another scientist reading your publication or you six months from now, 
 can use the same methods and data to find the same results.
-Reproducibile research is not only a good practice to validate results and to allow others to build off prior work,
+Reproducible research is not only a good practice to validate results and to allow others to build off prior work,
 it also makes your life easier when you need to update software, try out different parameters in a pipeline, or find bugs in your code!
 A reproducibility package ("repro-pack", coined by [Lorena Barba](https://lorenabarba.com/)) is 
 a collection of all the data, code, and figures used to produce the results of a research paper in an automated fashion.
