@@ -13,6 +13,8 @@ See our upcoming events below, and our past events [here](#past-events). You can
 
 https://blackinmicrobiology.org
 
+Sept. 28 - Oct. 04
+
 [![](/images/black-in-microbio-flyer.png)](https://blackinmicrobiology.org)
 
 ## Oct 2020: Organizing Projects for Reproducibility
