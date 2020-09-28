@@ -11,9 +11,7 @@ See our upcoming events below, and our past events [here](#past-events). You can
 
 ## Sep 2020: BLACK IN MICROBIOLOGY WEEK
 
-[https://blackinmicrobiology.org](https://blackinmicrobiology.org)
-
-Sept. 28 - Oct. 04
+Sept. 28 - Oct. 04 \| [https://blackinmicrobiology.org](https://blackinmicrobiology.org)
 
 [![](/images/black-in-microbio-flyer.png)](https://blackinmicrobiology.org)
 
