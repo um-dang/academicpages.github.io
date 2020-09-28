@@ -19,7 +19,7 @@ Sept. 28 - Oct. 04
 
 ## Oct 2020: Organizing Projects for Reproducibility
 
-Monday, Oct , 2020 \| 4-5pm \| [Virtual Meeting](https://umich.zoom.us/j/93872662456) \| 
+Monday, Oct 26, 2020 \| 4-5pm \| [Virtual Meeting](https://umich.zoom.us/j/93872662456) \| 
 
 _Repro-Packs: Organizing Projects for Reproducibility... and Headache Prevention!_
 
