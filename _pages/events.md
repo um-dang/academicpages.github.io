@@ -9,9 +9,15 @@ redirect_from:
 
 See our upcoming events below, and our past events [here](#past-events). You can also view our events feed at the [UMich Events Calendar](https://events.umich.edu/group/4456).
 
-## Sep 2020: Organizing Projects for Reproducibility
+## Sep 2020: BLACK IN MICROBIOLOGY WEEK
 
-Monday, Sep 28, 2020 \| 4-5pm \| [Virtual Meeting](https://umich.zoom.us/j/93872662456) \| 
+https://blackinmicrobiology.org
+
+![](/images/black-in-microbio-flyer.png)
+
+## Oct 2020: Organizing Projects for Reproducibility
+
+Monday, Oct , 2020 \| 4-5pm \| [Virtual Meeting](https://umich.zoom.us/j/93872662456) \| 
 
 _Repro-Packs: Organizing Projects for Reproducibility... and Headache Prevention!_
 
