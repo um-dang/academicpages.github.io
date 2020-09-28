@@ -13,7 +13,7 @@ See our upcoming events below, and our past events [here](#past-events). You can
 
 https://blackinmicrobiology.org
 
-![](/images/black-in-microbio-flyer.png)
+[![](/images/black-in-microbio-flyer.png)](https://blackinmicrobiology.org)
 
 ## Oct 2020: Organizing Projects for Reproducibility
 
