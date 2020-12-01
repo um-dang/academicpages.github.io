@@ -100,4 +100,4 @@ The Carpentries has instructions for installing the tools you'll need:
 - [Suck until you don't](http://www.academichermit.com/2016/01/04/Suck-until-you-dont.html)
 
 <br><br>
-_Written by Zena Lapp & Kelly Sovacool. Edited by Ari Kozik._
+_Written by Zena Lapp & Kelly Sovacool. Edited by [Ari Kozik](https://kozimicrobe.com/)._
