@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Introducing DANG! Minis!
-date: 2019-07-08
+date: 2020-12-16
 permalink: /posts/2020/12/minis/
 ---
 
