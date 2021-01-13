@@ -7,7 +7,7 @@ redirect_from:
   - /events.html
 ---
 
-See our upcoming events below, and our past events [here](#past-events). You can also view our events feed at the [UMich Events Calendar](https://events.umich.edu/group/4456).
+See our upcoming and [past](#past-events) events below. You can also view our events feed at the [UMich Events Calendar](https://events.umich.edu/group/4456).
 
 ## Sep 2020: BLACK IN MICROBIOLOGY WEEK
 
@@ -17,15 +17,15 @@ https://blackinmicrobiology.org
 
 ## Oct 2020: Organizing Projects for Reproducibility
 
-Monday, Oct , 2020 \| 4-5pm \| [Virtual Meeting](https://umich.zoom.us/j/93872662456) \| 
+Monday, Oct , 2020 \| 4-5pm \| [Virtual Meeting](https://umich.zoom.us/j/93872662456) \|
 
 _Repro-Packs: Organizing Projects for Reproducibility... and Headache Prevention!_
 
-Making your research projects reproducible ensures that anyone, whether that's another scientist reading your publication or you six months from now, 
+Making your research projects reproducible ensures that anyone, whether that's another scientist reading your publication or you six months from now,
 can use the same methods and data to find the same results.
 Reproducible research is not only a good practice to validate results and to allow others to build off prior work,
 it also makes your life easier when you need to update software, try out different parameters in a pipeline, or find bugs in your code!
-A reproducibility package ("repro-pack", coined by [Lorena Barba](https://lorenabarba.com/)) is 
+A reproducibility package ("repro-pack", coined by [Lorena Barba](https://lorenabarba.com/)) is
 a collection of all the data, code, and figures used to produce the results of a research paper in an automated fashion.
 We'll walk through an example of how to organize a project as a repro-pack and share it online so your work will be maximally reproducible.
 
@@ -75,7 +75,7 @@ Do you have a problem that you've encountered in your analysis but haven't resol
 Have a bug you just can't seem to squash?
 Have an analysis idea but don't know how to do it?
 We want to help!
-Use [this form](https://forms.gle/pZ1i1vhwjErAAK7g6) to submit a problem you have that we can cover during this session. 
+Use [this form](https://forms.gle/pZ1i1vhwjErAAK7g6) to submit a problem you have that we can cover during this session.
 Bring your code/data OR come to network and help others at this informal help session!
 
 ## May 2020: Data Science from the Bottom Up
