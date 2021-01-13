@@ -7,35 +7,19 @@ redirect_from:
   - /events.html
 ---
 
-See our upcoming and [past](#past-events) events below. You can also view our events feed at the [UMich Events Calendar](https://events.umich.edu/group/4456).
+See our upcoming and [past](#past-events) events below. You can also view our
+events feed at the [UMich Events Calendar](https://events.umich.edu/group/4456).
 
-## Sep 2020: BLACK IN MICROBIOLOGY WEEK
-
-https://blackinmicrobiology.org
-
-![](/images/black-in-microbio-flyer.png)
-
-## Oct 2020: Organizing Projects for Reproducibility
-
-Monday, Oct , 2020 \| 4-5pm \| [Virtual Meeting](https://umich.zoom.us/j/93872662456) \|
-
-_Repro-Packs: Organizing Projects for Reproducibility... and Headache Prevention!_
-
-Making your research projects reproducible ensures that anyone, whether that's another scientist reading your publication or you six months from now,
-can use the same methods and data to find the same results.
-Reproducible research is not only a good practice to validate results and to allow others to build off prior work,
-it also makes your life easier when you need to update software, try out different parameters in a pipeline, or find bugs in your code!
-A reproducibility package ("repro-pack", coined by [Lorena Barba](https://lorenabarba.com/)) is
-a collection of all the data, code, and figures used to produce the results of a research paper in an automated fashion.
-We'll walk through an example of how to organize a project as a repro-pack and share it online so your work will be maximally reproducible.
-
-
-Presented by Kelly Sovacool
-
-GitHub repo: [repro-packs](https://github.com/um-dang/repro-packs)
+Many of our events and tutorials are now asynchronous in response to the
+ pandemic. Check out our
+ [YouTube channel](https://www.youtube.com/channel/UC6LcVfSQZJtaYYFSnn9p4IA)
+ for the latest videos from the _DANG!_ community.
 
 # Past Events
+
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
+- [Oct 2020: Organizing Projects for Reproducibility](#Oct-2020-Organizing-Projects-for-Reproducibility)
+- [Sep 2020: BLACK IN MICROBIOLOGY WEEK](#Sep-2020-BLACK-IN-MICROBIOLOGY-WEEK)
 - [Aug 2020: Intro Data Science with Python](#Aug-2020-Intro-Data-Science-with-Python)
 - [June 2020: Help & Networking Social](#june-2020-help-networking-social)
 - [May 2020: Data Science from the Bottom Up](#may-2020-data-science-from-the-bottomup)
@@ -53,8 +37,31 @@ GitHub repo: [repro-packs](https://github.com/um-dang/repro-packs)
 - [Feb 2019: Transitioning from Flux](#feb-2019-transitioning-from-flux)
 - [Apr 2019: Literate Programming](#apr-2019-literate-programming)
 - [Mar 2019: Making UNIX Yours](#mar-2019-making-unix-yours)
-
 <!-- /TOC -->
+
+## Oct 2020: Organizing Projects for Reproducibility
+
+Monday, Oct 26, 2020 \| 4-5pm \| [Virtual Meeting](https://umich.zoom.us/j/93872662456) \|
+
+_Repro-Packs: Organizing Projects for Reproducibility... and Headache Prevention!_
+
+Making your research projects reproducible ensures that anyone, whether that's another scientist reading your publication or you six months from now,
+can use the same methods and data to find the same results.
+Reproducible research is not only a good practice to validate results and to allow others to build off prior work,
+it also makes your life easier when you need to update software, try out different parameters in a pipeline, or find bugs in your code!
+A reproducibility package ("repro-pack", coined by [Lorena Barba](https://lorenabarba.com/)) is
+a collection of all the data, code, and figures used to produce the results of a research paper in an automated fashion.
+We'll walk through an example of how to organize a project as a repro-pack and share it online so your work will be maximally reproducible.
+
+Presented by Kelly Sovacool
+
+GitHub repo: [repro-packs](https://github.com/um-dang/repro-packs)
+
+## Sep 2020: BLACK IN MICROBIOLOGY WEEK
+
+Sept. 28 - Oct. 04 \| [https://blackinmicrobiology.org](https://blackinmicrobiology.org)
+
+[![](/images/black-in-microbio-flyer.png)](https://blackinmicrobiology.org)
 
 ## Aug 2020: Intro Data Science with Python
 
