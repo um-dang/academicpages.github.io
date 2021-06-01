@@ -15,7 +15,7 @@ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
 clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 
-\
+
 
 You can check out our other _DANG! minis!_
 [on YouTube](https://www.youtube.com/channel/UC6LcVfSQZJtaYYFSnn9p4I).
